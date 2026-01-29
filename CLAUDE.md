@@ -233,6 +233,10 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 - Level 2 headings (`== ... ==`) only — level 1 is reserved for the page title.
 - Blank lines separate sections and structural elements; no multiple consecutive blank lines.
 
+##Additional rules
+
+- When updating @Main_Page.mediawiki, also update README.md and CLAUDE.md with same edits
+
 ## Contents of @Main_Page.mediawiki
 
 == Welcome to {{SITENAME}} wiki! ==
