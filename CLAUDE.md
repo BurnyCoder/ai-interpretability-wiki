@@ -253,7 +253,7 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
-| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures used to interpret models
+| [[:Category:Architectures for interpretability|Architectures for interpretability]] || Architectures used to interpret models
 |-
 | [[:Category:Applications|Applications]] || Practical uses and deployments
 |-
