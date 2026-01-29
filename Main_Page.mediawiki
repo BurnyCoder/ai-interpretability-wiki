@@ -10,6 +10,8 @@
 |-
 ! Category !! Description
 |-
+| [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
+|-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology in AI interpretability
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
