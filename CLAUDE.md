@@ -160,6 +160,79 @@ __NOEDITSECTION__      Hide section edit links
 
 Some HTML is allowed in wikitext: `<div>`, `<span>`, `<code>`, `<blockquote>`, `<br />`, etc. Dangerous attributes like `onclick` are stripped.
 
+## Current Design Patterns
+
+This section documents the patterns currently in use across the wiki. Follow these when adding new pages.
+
+### File & Directory Organization
+
+- **Root level**: `Main_Page.mediawiki` and category index pages (e.g., `Highlighted_work.mediawiki`).
+- **Subdirectories**: Individual articles grouped by category in lowercase-hyphenated directories (e.g., `highlighted-work/`).
+- **File naming**: Underscores for spaces, colons preserved. Example: `Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki`.
+
+### Page Hierarchy
+
+```
+Main_Page  (hub — links to all categories)
+  └─ Category index page  (e.g., Highlighted_work — lists articles via transclusion)
+       └─ Article page  (e.g., highlighted-work/Towards_Monosemanticity:_....mediawiki)
+```
+
+### Standard Article Structure
+
+Every article page follows this layout:
+
+```
+<onlyinclude>
+Summary paragraph with inline <ref> citations.
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Category Name]]
+```
+
+- **`<onlyinclude>`** wraps only the summary so index pages can transclude a short description.
+- **References section** comes after the `</onlyinclude>` tag, using `<references />`.
+- **Category assignment** is always the last line of the file.
+
+### Transclusion for Index Pages
+
+Category index pages list articles using full-page transclusion:
+
+```
+* {{:Article Title}}
+```
+
+Because articles use `<onlyinclude>`, only the summary paragraph is pulled in. This keeps index pages automatically up to date with article content.
+
+### Reference / Citation Format
+
+Inline references use an external URL followed by a parenthesized label:
+
+```
+Text.<ref>[https://example.com Title — Source] (paper)</ref>
+Text.<ref>[https://example.com Title — Source] (blog post)</ref>
+```
+
+Labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source.
+
+### Category Taxonomy
+
+The Main Page defines 16 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
+
+```
+[[:Category:Name|Display Text]]
+```
+
+### Formatting Conventions
+
+- **Bold** (`'''...'''`) is used to introduce key terms and abbreviations on first mention.
+- Level 2 headings (`== ... ==`) only — level 1 is reserved for the page title.
+- Blank lines separate sections and structural elements; no multiple consecutive blank lines.
+
 ## Contents of @Main_Page.mediawiki
 
 == Welcome to {{SITENAME}} wiki! ==
