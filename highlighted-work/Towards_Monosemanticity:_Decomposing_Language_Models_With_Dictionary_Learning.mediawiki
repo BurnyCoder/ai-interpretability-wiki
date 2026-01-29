@@ -1,8 +1,7 @@
-'''Towards Monosemanticity: Decomposing Language Models With Dictionary Learning''' is a 2023 paper by Anthropic, published as part of the Transformer Circuits Thread. It uses sparse autoencoders to extract interpretable features from a one-layer transformer, demonstrating that dictionary learning can decompose superposed polysemantic neural network representations into more monosemantic features.
+<onlyinclude>'''Towards Monosemanticity: Decomposing Language Models With Dictionary Learning''' is a 2023 paper by Anthropic in the Transformer Circuits Thread.<ref>[https://transformer-circuits.pub/2023/monosemantic-features Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — Transformer Circuits Thread] (paper)</ref><ref>[https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — Anthropic Research] (blog post)</ref> It uses sparse autoencoders to extract interpretable features from a one-layer transformer, demonstrating that dictionary learning can decompose superposed polysemantic neural network representations into more monosemantic features.</onlyinclude>
 
-== Sources ==
+== References ==
 
-* [https://transformer-circuits.pub/2023/monosemantic-features Towards Monosemanticity: Decomposing Language Models With Dictionary Learning] — Transformer Circuits Thread
-* [https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning Towards Monosemanticity: Decomposing Language Models With Dictionary Learning] — Anthropic Research
+<references />
 
 [[Category:Highlighted work]]
