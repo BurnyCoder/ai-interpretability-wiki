@@ -15,11 +15,12 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Highlighted work | Notable and influential work in AI interpretability |
 | Concepts | Core ideas and terminology |
 | Methods | Techniques and approaches used to interpret models |
-| Interpretability architectures | Architectures and frameworks used for AI interpretability |
+| Interpretability architectures | Architectures used to interpret models |
 | Applications | Practical uses and deployments |
 | Phenomena | Behaviors and properties analyzed |
-| AI architectures | Architectures of models studied |
 | Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
+| AI architectures | Architectures of studied models |
+| Interpretable architectures | Architectures that are designed to be more interpretable |
 | Surveys | Survey papers and literature reviews |
 | Github codebases | Code repositories |
 | People and groups | Researchers, labs, and organizations |

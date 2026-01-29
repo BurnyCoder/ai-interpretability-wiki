@@ -221,7 +221,7 @@ Labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source.
 
 ### Category Taxonomy
 
-The Main Page defines 16 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
+The Main Page defines 17 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
 
 ```
 [[:Category:Name|Display Text]]
@@ -253,21 +253,23 @@ The Main Page defines 16 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
-| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks used for AI interpretability
+| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures used to interpret models
 |-
 | [[:Category:Applications|Applications]] || Practical uses and deployments
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
-| [[:Category:AI architectures|AI architectures]] || Architectures of models studied 
-|-
 | [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:AI architectures|AI architectures]] || Architectures of studied models
+|-
+| [[:Category:Interpretable architectures|Interpretability architectures]] || Architectures that are designed to be more interpretable
 |-
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
 | [[:Category:Github codebases|Github codebases]] || Code repositories
 |-
-| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations 
+| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations
 |-
 | [[:Category:Communities|Communities]] || Communities on Discord, Slack, etc.
 |-

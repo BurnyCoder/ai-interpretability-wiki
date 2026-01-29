@@ -16,15 +16,17 @@
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
-| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks used for AI interpretability
+| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures used to interpret models
 |-
 | [[:Category:Applications|Applications]] || Practical uses and deployments
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
-| [[:Category:AI architectures|AI architectures]] || Architectures of models studied 
-|-
 | [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:AI architectures|AI architectures]] || Architectures of studied models 
+|-
+| [[:Category:Interpretable architectures|Interpretability architectures]] || Architectures that are designed to be more interpretable
 |-
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
