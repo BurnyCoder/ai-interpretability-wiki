@@ -159,3 +159,50 @@ __NOEDITSECTION__      Hide section edit links
 ### HTML
 
 Some HTML is allowed in wikitext: `<div>`, `<span>`, `<code>`, `<blockquote>`, `<br />`, etc. Dangerous attributes like `onclick` are stripped.
+
+## Contents of @Main_Page.mediawiki
+
+== Welcome to {{SITENAME}} wiki! ==
+
+'''Interpretability''' is the ability for the decision processes and inner workings of AI and machine learning systems to be understood by humans or other outside observers.
+
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions.
+
+== Contents ==
+
+{| class="wikitable" style="width:100%;"
+|-
+! Category !! Description
+|-
+| [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
+|-
+| [[:Category:Concepts|Concepts]] || Core ideas and terminology
+|-
+| [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
+|-
+| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks used for AI interpretability
+|-
+| [[:Category:Applications|Applications]] || Practical uses and deployments
+|-
+| [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
+|-
+| [[:Category:AI architectures|AI architectures]] || Architectures of models studied 
+|-
+| [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+|-
+| [[:Category:Github codebases|Github codebases]] || Code repositories
+|-
+| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations 
+|-
+| [[:Category:Communities|Communities]] || Communities
+|-
+| [[:Category:Feeds|Feeds]] || Blogs, newsletters, and content feeds
+|-
+| [[:Category:Youtube channels|Youtube channels]] || Video content and educational channels
+|-
+| [[:Category:Resources for learning|Resources for learning]] || Tutorials, courses, and learning materials
+|-
+| [[:Category:Events|Events]] || Conferences, workshops, and meetups
+|}

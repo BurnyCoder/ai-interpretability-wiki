@@ -12,27 +12,27 @@
 |-
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
 |-
-| [[:Category:Concepts|Concepts]] || Core ideas and terminology in AI interpretability
+| [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
-| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks designed for interpretability tools
+| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks used for AI interpretability
 |-
-| [[:Category:Applications|Applications]] || Practical uses and deployments of interpretability techniques
+| [[:Category:Applications|Applications]] || Practical uses and deployments
 |-
-| [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed in interpretability
+| [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
-| [[:Category:AI architectures|AI architectures]] || Neural network and model architectures studied for interpretability
+| [[:Category:AI architectures|AI architectures]] || Architectures of models studied 
 |-
-| [[:Category:Theory|Theory]] || Theoretical foundations and formal frameworks
+| [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
 |-
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
-| [[:Category:Github codebases|Github codebases]] || Open-source tools and code repositories
+| [[:Category:Github codebases|Github codebases]] || Code repositories
 |-
-| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations working on interpretability
+| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations 
 |-
-| [[:Category:Communities|Communities]] || Online and offline communities focused on interpretability
+| [[:Category:Communities|Communities]] || Communities
 |-
 | [[:Category:Feeds|Feeds]] || Blogs, newsletters, and content feeds
 |-

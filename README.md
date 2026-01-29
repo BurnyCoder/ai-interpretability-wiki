@@ -12,17 +12,18 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 | Category | Description |
 |----------|-------------|
-| Concepts | Core ideas and terminology in AI interpretability |
+| Highlighted work | Notable and influential work in AI interpretability |
+| Concepts | Core ideas and terminology |
 | Methods | Techniques and approaches used to interpret models |
-| Interpretability architectures | Architectures and frameworks designed for interpretability tools |
-| Applications | Practical uses and deployments of interpretability techniques |
-| Phenomena | Behaviors and properties analyzed in interpretability |
-| AI architectures | Neural network and model architectures studied for interpretability |
-| Theory | Theoretical foundations and formal frameworks |
+| Interpretability architectures | Architectures and frameworks used for AI interpretability |
+| Applications | Practical uses and deployments |
+| Phenomena | Behaviors and properties analyzed |
+| AI architectures | Architectures of models studied |
+| Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
 | Surveys | Survey papers and literature reviews |
-| Github codebases | Open-source tools and code repositories |
-| People and groups | Researchers, labs, and organizations working on interpretability |
-| Communities | Online and offline communities focused on interpretability |
+| Github codebases | Code repositories |
+| People and groups | Researchers, labs, and organizations |
+| Communities | Communities |
 | Feeds | Blogs, newsletters, and content feeds |
 | Youtube channels | Video content and educational channels |
 | Resources for learning | Tutorials, courses, and learning materials |
