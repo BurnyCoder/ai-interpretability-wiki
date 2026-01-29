@@ -23,7 +23,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Surveys | Survey papers and literature reviews |
 | Github codebases | Code repositories |
 | People and groups | Researchers, labs, and organizations |
-| Communities | Communities |
+| Communities | Communities on Discord, Slack, etc. |
 | Feeds | Blogs, newsletters, and content feeds |
 | Youtube channels | Video content and educational channels |
 | Resources for learning | Tutorials, courses, and learning materials |
