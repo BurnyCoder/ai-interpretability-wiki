@@ -196,7 +196,7 @@ Some HTML is allowed in wikitext: `<div>`, `<span>`, `<code>`, `<blockquote>`, `
 |-
 | [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations 
 |-
-| [[:Category:Communities|Communities]] || Communities
+| [[:Category:Communities|Communities]] || Communities on Discord, Slack, etc.
 |-
 | [[:Category:Feeds|Feeds]] || Blogs, newsletters, and content feeds
 |-

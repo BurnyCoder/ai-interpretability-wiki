@@ -1,0 +1,1 @@
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]] — Uses sparse autoencoders to extract interpretable features from a one-layer transformer, demonstrating that dictionary learning can decompose superposed polysemantic neural network representations into more monosemantic features.
