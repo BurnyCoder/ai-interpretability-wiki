@@ -1,0 +1,42 @@
+== Welcome to {{SITENAME}} wiki! ==
+
+'''Interpretability''' is the ability for the decision processes and inner workings of AI and machine learning systems to be understood by humans or other outside observers.
+
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions.
+
+== Contents ==
+
+{| class="wikitable" style="width:100%;"
+|-
+! Category !! Description
+|-
+| [[:Category:Concepts|Concepts]] || Core ideas and terminology in AI interpretability
+|-
+| [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
+|-
+| [[:Category:Interpretability architectures|Interpretability architectures]] || Architectures and frameworks designed for interpretability tools
+|-
+| [[:Category:Applications|Applications]] || Practical uses and deployments of interpretability techniques
+|-
+| [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed in interpretability
+|-
+| [[:Category:AI architectures|AI architectures]] || Neural network and model architectures studied for interpretability
+|-
+| [[:Category:Theory|Theory]] || Theoretical foundations and formal frameworks
+|-
+| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+|-
+| [[:Category:Github codebases|Github codebases]] || Open-source tools and code repositories
+|-
+| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations working on interpretability
+|-
+| [[:Category:Communities|Communities]] || Online and offline communities focused on interpretability
+|-
+| [[:Category:Feeds|Feeds]] || Blogs, newsletters, and content feeds
+|-
+| [[:Category:Youtube channels|Youtube channels]] || Video content and educational channels
+|-
+| [[:Category:Resources for learning|Resources for learning]] || Tutorials, courses, and learning materials
+|-
+| [[:Category:Events|Events]] || Conferences, workshops, and meetups
+|}
