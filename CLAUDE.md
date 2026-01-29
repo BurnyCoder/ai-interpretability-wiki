@@ -173,10 +173,20 @@ This section documents the patterns currently in use across the wiki. Follow the
 ### Page Hierarchy
 
 ```
-Main_Page  (hub — links to all categories)
-  └─ Category index page  (e.g., Highlighted_work — lists articles via transclusion)
-       └─ Article page  (e.g., highlighted-work/Towards_Monosemanticity:_....mediawiki)
+Main_Page.mediawiki                          (hub — links to all categories)
+  └─ Highlighted_work.mediawiki              (category index page, root level)
+       └─ highlighted-work/                  (subdirectory, lowercase-hyphenated)
+            └─ Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ```
+
+Concrete example of how these files connect:
+
+- `Main_Page.mediawiki` links to the category: `[[:Category:Highlighted work|Highlighted work]]`
+- `Highlighted_work.mediawiki` (root level) is the index page. It transcludes articles:
+  ```
+  * {{:Towards Monosemanticity: Decomposing Language Models With Dictionary Learning}}
+  ```
+- `highlighted-work/Towards_Monosemanticity:_....mediawiki` (subdirectory) is the article. Its summary is wrapped in `<onlyinclude>` for transclusion, and it ends with `[[Category:Highlighted work]]`.
 
 ### Standard Article Structure
 
