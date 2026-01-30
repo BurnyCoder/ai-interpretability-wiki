@@ -317,6 +317,8 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 - When adding anything from some source, make sure to as exactly quote words from the source as possible to not make stuff up, and add the source as a reference
 
+- When using text word-for-word from a source, wrap it in quotation marks with the source citation immediately after (e.g., `"quoted text."<ref>Source.</ref>`). Change inner double quotes to single quotes when nested inside an outer quote.
+
 ## Contents of @Main_Page.mediawiki
 
 == Welcome to {{SITENAME}} wiki! ==
