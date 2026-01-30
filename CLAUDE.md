@@ -184,6 +184,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── People_and_groups.mediawiki
 ├── Phenomena.mediawiki
 ├── Methods.mediawiki
+├── AI_architectures.mediawiki
 ├── methods/
 │   └── Dictionary_learning.mediawiki
 ├── architectures-for-interpretability/
@@ -197,6 +198,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   └── Mech_Interp_discord.mediawiki
 ├── people-and-groups/
 │   └── Neel_Nanda.mediawiki
+├── ai-architectures/
+│   └── Transformer.mediawiki
 └── phenomena/
     └── Grokking.mediawiki
 ```
@@ -372,6 +375,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### Architectures for interpretability
 
 * Sparse autoencoder
+
+### AI architectures
+
+* Transformer
 
 ### Phenomena
 

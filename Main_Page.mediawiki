@@ -66,6 +66,10 @@
 
 * [[Sparse autoencoder]]
 
+=== [[:Category:AI architectures|AI architectures]] ===
+
+* [[Transformer]]
+
 === [[:Category:Phenomena|Phenomena]] ===
 
 * [[Grokking]]

@@ -49,6 +49,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Sparse autoencoder
 
+### AI architectures
+
+* Transformer
+
 ### Phenomena
 
 * Grokking
