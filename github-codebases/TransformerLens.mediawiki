@@ -1,4 +1,6 @@
-<onlyinclude>'''[[TransformerLens]]''' is "a library for doing [[mechanistic interpretability]] of GPT-2 Style language models."<ref name="transformerlens">[https://github.com/TransformerLensOrg/TransformerLens "TransformerLens"]. ''GitHub''.</ref> "The goal of mechanistic interpretability is to take a trained model and reverse engineer the algorithms the model learned during training from its weights."<ref name="transformerlens" /> "TransformerLens lets you load in 50+ different open source language models, and exposes the internal activations of the model to you. You can cache any internal activation in the model, and add in functions to edit, remove or replace these activations as the model runs."<ref name="transformerlens" /> The library was created by [[Neel Nanda]] and is maintained by Bryce Meyer.<ref name="transformerlens" /></onlyinclude>
+<onlyinclude>'''[[TransformerLens]]''' is "a library for doing mechanistic interpretability of GPT-2 Style language models. It lets you load in 50+ different open source language models, and exposes the internal activations of the model to you. You can cache any internal activation in the model, and add in functions to edit, remove or replace these activations as the model runs."<ref name="transformerlens">[https://github.com/TransformerLensOrg/TransformerLens "TransformerLens"]. ''GitHub''.</ref></onlyinclude>
+
+The library was created by [[Neel Nanda]] and is maintained by Bryce Meyer.
 
 == References ==
 
