@@ -18,8 +18,6 @@
 |-
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
 |-
-| [[:Category:Papers|Papers]] || Papers in AI interpretability
-|-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
@@ -33,6 +31,8 @@
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
 | [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:Papers|Papers]] || Papers in AI interpretability
 |-
 | [[:Category:AI architectures|AI architectures]] || Architectures of studied models 
 |-
@@ -75,6 +75,7 @@
 === [[:Category:AI architectures|AI architectures]] ===
 
 * [[Transformer]]
+* [[CNN]]
 
 === [[:Category:Phenomena|Phenomena]] ===
 

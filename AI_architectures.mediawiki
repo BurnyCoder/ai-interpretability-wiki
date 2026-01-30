@@ -1,6 +1,7 @@
 Architectures of studied models.
 
 * {{:Transformer}}
+* {{:CNN}}
 
 == References ==
 

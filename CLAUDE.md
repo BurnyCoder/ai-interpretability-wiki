@@ -205,6 +205,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── people-and-groups/
 │   └── Neel_Nanda.mediawiki
 ├── ai-architectures/
+│   ├── CNN.mediawiki
 │   └── Transformer.mediawiki
 ├── github-codebases/
 │   └── TransformerLens.mediawiki
@@ -435,6 +436,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:AI architectures|AI architectures]] ===
 
 * [[Transformer]]
+* [[CNN]]
 
 === [[:Category:Phenomena|Phenomena]] ===
 

@@ -1,0 +1,7 @@
+<onlyinclude>'''[[CNN]]'''</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:AI architectures]]
