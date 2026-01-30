@@ -368,6 +368,10 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 | [[:Category:Events|Events]] || Conferences, workshops, and meetups
 |}
 
+== Random page ==
+
+[[Special:Random|Click here to go to a random page on the wiki!]]
+
 == References ==
 
 <references />
