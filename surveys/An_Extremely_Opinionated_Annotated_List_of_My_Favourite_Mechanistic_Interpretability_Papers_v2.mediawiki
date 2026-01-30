@@ -1,0 +1,9 @@
+<onlyinclude>
+'''[[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2]]''' is an annotated reading list by [[Neel Nanda]] of his "favourite mech interp papers: papers which I think are important to be aware of, often worth skimming, and something worth reading deeply (time permitting)."<ref>Nanda, Neel (2024-07-07). [https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1 "An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2"]. ''AI Alignment Forum''.</ref>
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Surveys]]

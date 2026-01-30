@@ -203,7 +203,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   └── Transformer.mediawiki
 ├── surveys/
 │   ├── Mechanistic_Interpretability_for_AI_Safety_--_A_Review.mediawiki
-│   └── Locate,_Steer,_and_Improve:_A_Practical_Survey_of_Actionable_Mechanistic_Interpretability_in_Large_Language_Models.mediawiki
+│   ├── Locate,_Steer,_and_Improve:_A_Practical_Survey_of_Actionable_Mechanistic_Interpretability_in_Large_Language_Models.mediawiki
+│   └── An_Extremely_Opinionated_Annotated_List_of_My_Favourite_Mechanistic_Interpretability_Papers_v2.mediawiki
 └── phenomena/
     └── Grokking.mediawiki
 ```
@@ -392,6 +393,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Mechanistic Interpretability for AI Safety -- A Review
 * Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
+* An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2
 
 ### People and groups
 
