@@ -495,6 +495,8 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 
 * [[Mech Interp discord]]
 * [[Alignment Forum]]
+* [[Open Source Mechanistic Interpretability Slack]]
+* [[EleutherAI]]
 
 === [[:Category:Feeds|Feeds]] ===
 

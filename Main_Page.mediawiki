@@ -127,6 +127,8 @@
 
 * [[Mech Interp discord]]
 * [[Alignment Forum]]
+* [[Open Source Mechanistic Interpretability Slack]]
+* [[EleutherAI]]
 
 === [[:Category:Feeds|Feeds]] ===
 

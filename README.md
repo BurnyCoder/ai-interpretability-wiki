@@ -112,6 +112,8 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Mech Interp discord
 * Alignment Forum
+* Open Source Mechanistic Interpretability Slack
+* EleutherAI
 
 ### Feeds
 
