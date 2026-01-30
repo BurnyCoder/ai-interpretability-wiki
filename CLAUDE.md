@@ -202,7 +202,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── papers/
 │   ├── On_the_Biology_of_a_Large_Language_Model.mediawiki
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
-│   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+│   ├── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+│   └── When_Models_Manipulate_Manifolds:_The_Geometry_of_a_Counting_Task.mediawiki
 ├── communities/
 │   └── Mech_Interp_discord.mediawiki
 ├── people-and-groups/
