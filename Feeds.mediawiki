@@ -3,7 +3,7 @@ Feeds for papers, blogs, newsletters, and content feeds in AI interpretability.
 * {{:Anthropic Interpretability research}}
 * {{:Transformer Circuits Thread}}
 * {{:Alignment Forum}}
-* {{:Open Source Mechinterp Slack}}
+* {{:Open Source Mechanistic Interpretability Slack}}
 
 == References ==
 

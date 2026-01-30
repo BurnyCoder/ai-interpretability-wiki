@@ -118,7 +118,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Anthropic Interpretability research
 * Transformer Circuits Thread
 * Alignment Forum
-* Open Source Mechinterp Slack
+* Open Source Mechanistic Interpretability Slack
 
 ### Resources for learning
 

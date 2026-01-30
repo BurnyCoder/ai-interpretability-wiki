@@ -501,7 +501,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Anthropic Interpretability research]]
 * [[Transformer Circuits Thread]]
 * [[Alignment Forum]]
-* [[Open Source Mechinterp Slack]]
+* [[Open Source Mechanistic Interpretability Slack]]
 
 === [[:Category:Resources for learning|Resources for learning]] ===
 
