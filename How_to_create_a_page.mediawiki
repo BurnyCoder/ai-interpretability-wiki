@@ -1,25 +1,10 @@
 This page describes how to create and format pages on {{SITENAME}}.
 
-== File and directory organization ==
+== Creating a page ==
 
-* '''Root level''': The Main Page and category index pages (e.g., <code>Highlighted_work.mediawiki</code>) are stored at the root level of the repository.
-* '''Subdirectories''': Individual articles are grouped by category in lowercase-hyphenated directories (e.g., <code>highlighted-work/</code>).
-* '''File naming''': Use underscores for spaces and preserve colons. Example: <code>Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki</code>.
+To create a new page, type the page name in the wiki search bar, then click '''Create the page''' in the search results. Alternatively, navigate directly to the URL <code><nowiki>https://aiinterpretability.miraheze.org/wiki/Page Name</nowiki></code> and click '''Create''' at the top.
 
-=== Page hierarchy ===
-
-<pre>
-Main_Page.mediawiki                          (hub — links to all categories)
-  └─ Highlighted_work.mediawiki              (category index page, root level)
-       └─ highlighted-work/                  (subdirectory, lowercase-hyphenated)
-            └─ Article_Name.mediawiki        (individual article)
-</pre>
-
-* <code>Main_Page.mediawiki</code> links to each category using <code><nowiki>[[:Category:Category Name|Display Text]]</nowiki></code>.
-* Category index pages (e.g., <code>Highlighted_work.mediawiki</code>) transclude articles using <code><nowiki>* {{:Article Title}}</nowiki></code>.
-* Article pages wrap their summary in <code><nowiki><onlyinclude></nowiki></code> tags so only the summary is pulled in when transcluded.
-
-== Standard article structure ==
+== Page structure ==
 
 Every article page follows this layout:
 
@@ -41,14 +26,16 @@ Author/publication metadata (e.g., "It is a 2023 paper by ...").
 [[Category:Category Name]]
 </pre>
 
-* <code><nowiki><onlyinclude></nowiki></code> wraps only the summary so index pages can transclude a short description. Author and publication metadata goes after the closing <code><nowiki></onlyinclude></nowiki></code> tag so it does not appear in transclusions.
-* The first bold mention of the article's own title in the summary must be a wikilink so it is clickable when transcluded: <code><nowiki>'''[[Page Name]]'''</nowiki></code>.
+=== How it works ===
+
+* <code><nowiki><onlyinclude></nowiki></code> wraps only the summary so category index pages can transclude a short description. Author and publication metadata goes after the closing <code><nowiki></onlyinclude></nowiki></code> tag so it does not appear in transclusions.
+* The first bold mention of the article's own title in the summary must be a wikilink so it is clickable when transcluded on index pages: <code><nowiki>'''[[Page Name]]'''</nowiki></code>.
 * The references section comes after the metadata.
-* The category assignment is always the last line of the file.
+* The category assignment is always the last line of the page.
 
 == Adding a page to the category index ==
 
-Category index pages list articles using full-page transclusion:
+After creating a page, edit the corresponding category index page (e.g., [[:Category:Highlighted work|Highlighted work]]) and add a transclusion line:
 
 <pre>
 * {{:Article Title}}
@@ -56,7 +43,7 @@ Category index pages list articles using full-page transclusion:
 
 Because articles use <code><nowiki><onlyinclude></nowiki></code>, only the summary paragraph is pulled in. This keeps index pages automatically up to date with article content.
 
-After creating an article, add a transclusion line to the corresponding category index page (e.g., <code>Highlighted_work.mediawiki</code>) and add the article to the Pages section of the [[Main Page]].
+Also add the page to the Pages section of the [[Main Page]].
 
 == Reference and citation format ==
 
