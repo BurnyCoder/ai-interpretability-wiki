@@ -81,6 +81,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Curve detector
 * Dog detector
 * Golden Gate Bridge Claude
+* Chain of thought
 
 ### Theory
 

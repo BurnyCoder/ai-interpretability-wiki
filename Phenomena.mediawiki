@@ -7,6 +7,7 @@ Behaviors and properties analyzed in AI interpretability research.
 * {{:Curve detector}}
 * {{:Dog detector}}
 * {{:Golden Gate Bridge Claude}}
+* {{:Chain of thought}}
 
 == References ==
 

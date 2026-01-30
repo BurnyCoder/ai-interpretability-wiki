@@ -464,6 +464,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Curve detector]]
 * [[Dog detector]]
 * [[Golden Gate Bridge Claude]]
+* [[Chain of thought]]
 
 === [[:Category:Theory|Theory]] ===
 

@@ -96,6 +96,7 @@
 * [[Curve detector]]
 * [[Dog detector]]
 * [[Golden Gate Bridge Claude]]
+* [[Chain of thought]]
 
 === [[:Category:Theory|Theory]] ===
 
