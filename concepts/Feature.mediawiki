@@ -3,13 +3,11 @@
 - Features are the fundamental building block of models - the model's internal activations represent features, and the model's weights and non-linearities are used to apply computations to produce later features from earlier features."<ref name="nanda-glossary" />
 </onlyinclude>
 
-Examples include "this part of the image contains a curve," "this token is the final token in the phrase 'Eiffel Tower'," "this text is Python code," and "this token is the name of a variable corresponding to a list in Python code."<ref name="nanda-glossary" />
-
-Chris Olah offers several definitions:<ref name="olah-2022">Olah, Chris (2022-06-27). [https://transformer-circuits.pub/2022/mech-interp-essay/index.html "Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases"]. ''Transformer Circuits Thread''.</ref>
-- Feature is "some meaningful, articulable property of the input which the network encodes as a direction in activation space." But this is "human centric" and "excludes the possibility of features humans don't understand."
-- Features are "whatever the 'independent units' a neural network representation can be decomposed into are."
-- Features are "the things a network would ideally dedicate a neuron to if you gave it enough neurons."
-- The definition that features are "simply any function of the input" is unsatisfactory because "under this definition, any mixture of features is also a feature" - whereas "there's something importantly different about a 'car detector' (which seems to correspond to an important latent variable) from 'car and cat detector' (which seems to be an arbitrary mixture of things)."
+Chris Olah offers several definitions:
+- Feature is "some meaningful, articulable property of the input which the network encodes as a direction in activation space." But this is "human centric" and "excludes the possibility of features humans don't understand."<ref name="olah-2022">Olah, Chris (2022-06-27). [https://transformer-circuits.pub/2022/mech-interp-essay/index.html "Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases"]. ''Transformer Circuits Thread''.</ref>
+- Features are "whatever the 'independent units' a neural network representation can be decomposed into are."<ref name="olah-2022" />
+- Features are "the things a network would ideally dedicate a neuron to if you gave it enough neurons."<ref name="olah-2022" />
+- The definition that features are "simply any function of the input" is unsatisfactory because "under this definition, any mixture of features is also a feature" - whereas "there's something importantly different about a 'car detector' (which seems to correspond to an important latent variable) from 'car and cat detector' (which seems to be an arbitrary mixture of things)."<ref name="olah-2022" />
 
 In practice, the term is "normally used to describe a property of an example input that is actually internally represented in the model, rather than a feature that could be in theory," and refers to "properties of inputs that generalise across inputs."<ref name="nanda-glossary" />
 
