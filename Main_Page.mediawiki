@@ -86,7 +86,7 @@
 === [[:Category:AI architectures|AI architectures]] ===
 
 * [[Transformer]]
-* [[CNN]]
+* [[Convolutional neural network]]
 
 === [[:Category:Phenomena|Phenomena]] ===
 

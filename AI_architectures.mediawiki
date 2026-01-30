@@ -1,7 +1,7 @@
 Architectures of studied models.
 
 * {{:Transformer}}
-* {{:CNN}}
+* {{:Convolutional neural network}}
 
 == References ==
 

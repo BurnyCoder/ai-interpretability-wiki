@@ -1,0 +1,7 @@
+<onlyinclude>'''[[Convolutional neural network]]'''</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:AI architectures]]
