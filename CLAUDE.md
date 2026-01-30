@@ -182,6 +182,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── architectures-for-interpretability/
 │   └── Sparse_autoencoder.mediawiki
 └── highlighted-work/
+    ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
     └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ```
 
