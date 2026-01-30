@@ -30,4 +30,4 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Resources for learning | Tutorials, courses, and learning materials |
 | Events | Conferences, workshops, and meetups |
 
-Created by [Burny](https://burnyverse.com/) ([@burny_tech](https://x.com/burny_tech)).
+Created by Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech)).
