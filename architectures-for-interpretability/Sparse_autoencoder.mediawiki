@@ -1,5 +1,5 @@
 <onlyinclude>
-'''[[Sparse autoencoder]]''' ('''SAE''') is "a weak [[dictionary learning]] algorithm that address [[polysemanticity]] to generate learned [[Feature|features]] from a trained model that offer a more [[monosemanticity|monosemantic]] unit of analysis than the model's neurons themselves."<ref name="towards-monosemanticity">[[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]].</ref>
+'''[[Sparse autoencoder]]''' ('''SAE''') is "a weak [[dictionary learning]] algorithm that address [[polysemanticity]] by generating learned [[Feature|features]] from a trained model that offer a more [[monosemanticity|monosemantic]] unit of analysis than the model's neurons themselves."<ref name="towards-monosemanticity">[[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]].</ref>
 </onlyinclude>
 
 == References ==

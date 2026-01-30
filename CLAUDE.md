@@ -233,10 +233,6 @@ More text.
 
 <references />
 
-== Created by ==
-
-* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], [https://patreon.com/BurnyTech Patreon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).
-
 [[Category:Category Name]]
 ```
 
