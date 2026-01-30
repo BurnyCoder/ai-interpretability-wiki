@@ -391,6 +391,11 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 * [[Neel Nanda]]
 
+== Tips ==
+
+* To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
+* To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh Dark Reader] Chrome extension, but it might be a bit broken.
+
 == Random page ==
 
 [[Special:Random|Click here to go to a random page on the wiki!]]
