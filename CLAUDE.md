@@ -493,6 +493,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:Communities|Communities]] ===
 
 * [[Mech Interp discord]]
+* [[Alignment Forum]]
 
 === [[:Category:Feeds|Feeds]] ===
 

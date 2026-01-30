@@ -1,6 +1,7 @@
 Communities on Discord, Slack, etc.
 
 * {{:Mech Interp discord}}
+* {{:Alignment Forum}}
 
 == References ==
 
