@@ -241,18 +241,48 @@ Because articles use `<onlyinclude>`, only the summary paragraph is pulled in. T
 
 ### Reference / Citation Format
 
-Inline references use an external URL:
+References use Wikipedia-style Citation Style 1 (CS1) plain-text formatting inside `<ref>` tags. Use periods (`.`) to separate fields. Titles of articles and pages go in double quotes, linked to the URL. Titles of journals, websites, and conference proceedings go in italics (`''...''`).
+
+**Web page:**
 
 ```
-Text.<ref>[https://example.com Title — Source]</ref>
+<ref>Last, First (YYYY-MM-DD). [https://example.com "Title"]. ''Website''.</ref>
 ```
 
-Use labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source if there are multiple of them of the same or similar name and you can't easily tell.
+**arXiv paper:**
 
 ```
-Text.<ref>[https://example.com Title — Source] (paper)</ref>
-Text.<ref>[https://example.com Title — Source] (blog post)</ref>
+<ref>Last1, First1; Last2, First2 (YYYY). [https://arxiv.org/abs/ID "Title"]. arXiv:[https://arxiv.org/abs/ID ID].</ref>
 ```
+
+**Journal article:**
+
+```
+<ref>Last1, First1; Last2, First2 (YYYY). [https://doi.org/DOI "Title"]. ''Journal''. '''Vol'''(Issue): Pages. doi:[https://doi.org/DOI DOI].</ref>
+```
+
+**Conference paper:**
+
+```
+<ref>Last1, First1; Last2, First2 (YYYY). [https://url "Title"]. ''Conference Name''. pp. Pages.</ref>
+```
+
+**Wiki/forum page:**
+
+```
+<ref>[https://example.com "Title"]. ''Site Name''.</ref>
+```
+
+**Rules:**
+
+- Author names: `Last, First` format. Multiple authors separated by semicolons.
+- For 4+ authors, list the first three and use `et al.`: `Last1, First1; Last2, First2; Last3, First3; et al.`
+- Dates: `YYYY-MM-DD` for web pages with specific dates, `YYYY` for papers/journals.
+- Volume numbers in bold: `'''42'''`.
+- DOIs: `doi:[https://doi.org/DOI DOI]`.
+- arXiv IDs: `arXiv:[https://arxiv.org/abs/ID ID]`.
+- Use named refs when citing the same source multiple times: `<ref name="name">...</ref>` and `<ref name="name" />`.
+- Keep using `<references />` to display all references.
 
 ### Category Taxonomy
 
@@ -281,9 +311,9 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 == Welcome to {{SITENAME}} wiki! ==
 
-'''Interpretability''' is the ability for the decision processes and inner workings of AI and machine learning systems to be understood by humans or other outside observers.<ref>[https://www.lesswrong.com/w/interpretability-ml-and-ai Interpretability (ML & AI) — LessWrong]</ref>
+'''Interpretability''' is the ability for the decision processes and inner workings of AI and machine learning systems to be understood by humans or other outside observers.<ref>[https://www.lesswrong.com/w/interpretability-ml-and-ai "Interpretability (ML & AI)"]. ''LessWrong''.</ref>
 
-'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions.<ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability Mechanistic interpretability — Wikipedia]</ref>
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions.<ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref>
 
 == Contents ==
 
