@@ -177,7 +177,6 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── CLAUDE.md
 ├── README.md
 ├── Main_Page.mediawiki
-├── How_to_create_a_page.mediawiki
 ├── Highlighted_work.mediawiki
 ├── Architectures_for_interpretability.mediawiki
 ├── Concepts.mediawiki
@@ -378,7 +377,6 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 ## Tips
 
-* To learn how to create a new page, see [How to create a page](https://aiinterpretability.miraheze.org/wiki/How_to_create_a_page).
 * To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
 * To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Chrome extension, but it might be a bit broken.
 
