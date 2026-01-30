@@ -76,6 +76,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Anthropic Interpretability research
 * Transformer Circuits Thread
 
+### Resources for learning
+
+* ARENA
+* How to become a mechanistic interpretability researcher
+
 ## Tips
 
 * To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".

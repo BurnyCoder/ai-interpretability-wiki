@@ -24,13 +24,13 @@
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
+| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+|-
 | [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
 |-
 | [[:Category:AI architectures|AI architectures]] || Architectures of studied models 
 |-
-| [[:Category:Interpretable architectures|Interpretability architectures]] || Architectures that are designed to be more interpretable
-|-
-| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+| [[:Category:Interpretable architectures|Interpretable architectures]] || Architectures that are designed to be more interpretable
 |-
 | [[:Category:Github codebases|Github codebases]] || Code repositories
 |-
@@ -92,6 +92,11 @@
 
 * [[Anthropic Interpretability research]]
 * [[Transformer Circuits Thread]]
+
+=== [[:Category:Resources for learning|Resources for learning]] ===
+
+* [[ARENA]]
+* [[How to become a mechanistic interpretability researcher]]
 
 == Random page ==
 

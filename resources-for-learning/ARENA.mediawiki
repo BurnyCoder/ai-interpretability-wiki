@@ -1,0 +1,18 @@
+<onlyinclude>'''[[ARENA]]''' ('''Alignment Research Engineer Accelerator''') is an educational program that aims to equip participants with "the skills, community, and confidence to contribute directly to technical AI safety."<ref name="arena">[https://www.arena.education/ "ARENA"]. ''ARENA''.</ref> ARENA offers in-person bootcamps in London and a publicly available [https://arena-chapter0-fundamentals.streamlit.app/ online curriculum] covering fundamentals, transformer interpretability, reinforcement learning, and LLM evaluations.<ref name="arena" /><ref name="arena-github">[https://github.com/callummcdougall/ARENA_3.0 "ARENA_3.0"]. ''GitHub''.</ref></onlyinclude>
+
+"ARENA certainly couldn't exist without the wealth of fantastic open-source material that has been published over the last few years: from Anthropic's transformer circuits thread, to Neel Nanda's TransformerLens library, to the original MLAB material, to many more. But with all this material floating around, it can be hard to know what to focus on or prioritize. I see the purpose of ARENA largely as structure and curation — it provides a guided path through the material, for anyone who finds themselves overwhelmed by the amount of technical AI safety content out there."<ref name="arena-ch0">[https://arena-chapter0-fundamentals.streamlit.app/ "Chapter 0: Fundamentals"]. ''ARENA''.</ref>
+
+== Curriculum ==
+
+The curriculum comprises four chapters:<ref name="arena-github" /><ref name="arena-ch0" />
+
+* '''Chapter 0: Fundamentals''' — covers building custom convolution functions, residual neural networks, hyperparameter optimization, backpropagation, and generative models (VAEs and GANs).
+* '''Chapter 1: Transformer Interpretability''' — covers building transformers from scratch, using TransformerLens for circuit analysis, "finding a circuit for indirect object identification in GPT-2 small," feature superposition, sparse autoencoders, and model steering through activation vectors.<ref name="arena-github" />
+* '''Chapter 2: Reinforcement Learning''' — covers multi-armed bandit problems, Deep Q-Networks, PPO, and reinforcement learning from human feedback applied to transformers.
+* '''Chapter 3: LLM Evaluations''' — developed with Apollo Research, covers multiple-choice question benchmark design, LLM agent development, and elicitation techniques.
+
+== References ==
+
+<references />
+
+[[Category:Resources for learning]]
