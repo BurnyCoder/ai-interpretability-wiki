@@ -387,8 +387,6 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
-| [[:Category:Features and circuits|Features and circuits]] || [[Feature|Features]] and [[Circuit|circuits]] identified and analyzed in neural networks
-|-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
 | [[:Category:Architectures for interpretability|Architectures for interpretability]] || Architectures used to interpret models
@@ -396,6 +394,8 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 | [[:Category:Applications|Applications]] || Practical uses and deployments
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
+|-
+| [[:Category:Features and circuits|Features and circuits]] || [[Feature|Features]] and [[Circuit|circuits]] identified and analyzed in neural networks
 |-
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
@@ -442,14 +442,6 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 * [[Pragmatic interpretability]]
 * [[Explainable AI]]
 
-=== [[:Category:Features and circuits|Features and circuits]] ===
-
-* [[Feature]]
-* [[Circuit]]
-* [[Attribution graph]]
-* [[Curve detector]]
-* [[Dog detector]]
-
 === [[:Category:Methods|Methods]] ===
 
 * [[Dictionary learning]]
@@ -475,6 +467,14 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 * [[Dog detector]]
 * [[Golden Gate Bridge Claude]]
 * [[Chain of thought]]
+
+=== [[:Category:Features and circuits|Features and circuits]] ===
+
+* [[Feature]]
+* [[Circuit]]
+* [[Attribution graph]]
+* [[Curve detector]]
+* [[Dog detector]]
 
 === [[:Category:Theory|Theory]] ===
 

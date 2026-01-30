@@ -14,11 +14,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 |----------|-------------|
 | Highlighted work | Notable and influential work in AI interpretability |
 | Concepts | Core ideas and terminology |
-| Features and circuits | [Features](Feature) and [circuits](Circuit) identified and analyzed in neural networks |
 | Methods | Techniques and approaches used to interpret models |
 | Architectures for interpretability | Architectures used to interpret models |
 | Applications | Practical uses and deployments |
 | Phenomena | Behaviors and properties analyzed |
+| Features and circuits | [Features](Feature) and [circuits](Circuit) identified and analyzed in neural networks |
 | Surveys | Survey papers and literature reviews |
 | Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
 | Papers | Papers in AI interpretability |
@@ -52,14 +52,6 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Pragmatic interpretability
 * Explainable AI
 
-### Features and circuits
-
-* Feature
-* Circuit
-* Attribution graph
-* Curve detector
-* Dog detector
-
 ### Methods
 
 * Dictionary learning
@@ -85,6 +77,14 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Dog detector
 * Golden Gate Bridge Claude
 * Chain of thought
+
+### Features and circuits
+
+* Feature
+* Circuit
+* Attribution graph
+* Curve detector
+* Dog detector
 
 ### Theory
 
