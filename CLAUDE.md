@@ -480,6 +480,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:Github codebases|Github codebases]] ===
 
 * [[TransformerLens]]
+* [[Neuronpedia]]
 
 === [[:Category:People and groups|People and groups]] ===
 

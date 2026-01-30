@@ -1,6 +1,7 @@
 Code repositories for AI interpretability.
 
 * {{:TransformerLens}}
+* {{:Neuronpedia}}
 
 == References ==
 
