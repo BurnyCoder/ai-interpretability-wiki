@@ -55,7 +55,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 ### Communities
 
-* Mechanistic Interpretability Discord
+* Mech Interp Discord
 
 ## Tips
 

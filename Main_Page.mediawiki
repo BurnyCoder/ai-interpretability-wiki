@@ -72,7 +72,7 @@
 
 === [[:Category:Communities|Communities]] ===
 
-* [[Mechanistic Interpretability Discord]]
+* [[Mech Interp Discord]]
 
 == Random page ==
 
