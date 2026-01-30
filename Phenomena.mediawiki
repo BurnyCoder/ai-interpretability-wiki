@@ -1,5 +1,6 @@
 Behaviors and properties analyzed in AI interpretability research.
 
+* {{:Alignment}}
 * {{:Grokking}}
 
 == References ==

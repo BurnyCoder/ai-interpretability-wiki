@@ -78,6 +78,7 @@
 
 === [[:Category:Phenomena|Phenomena]] ===
 
+* [[Alignment]]
 * [[Grokking]]
 
 === [[:Category:Theory|Theory]] ===

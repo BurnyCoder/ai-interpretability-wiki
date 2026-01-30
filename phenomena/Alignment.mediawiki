@@ -1,0 +1,9 @@
+<onlyinclude>
+'''[[Alignment]]''', or '''AI alignment''', is "ensuring AI systems pursue intended goals"<ref name="bereska-review">Bereska, Leonard; Gavves, Efstratios (2024). [https://arxiv.org/abs/2404.14082 "Mechanistic Interpretability for AI Safety -- A Review"]. arXiv:[https://arxiv.org/abs/2404.14082 2404.14082].</ref> "with human values."<ref name="bereska-review" /> "Understanding AI systems' inner workings is critical for ensuring value alignment and safety."<ref name="bereska-review" />
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Phenomena]]

@@ -220,6 +220,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   ├── Locate,_Steer,_and_Improve:_A_Practical_Survey_of_Actionable_Mechanistic_Interpretability_in_Large_Language_Models.mediawiki
 │   └── An_Extremely_Opinionated_Annotated_List_of_My_Favourite_Mechanistic_Interpretability_Papers_v2.mediawiki
 ├── phenomena/
+│   ├── Alignment.mediawiki
 │   └── Grokking.mediawiki
 └── resources-for-learning/
     ├── ARENA.mediawiki
@@ -437,6 +438,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 
 === [[:Category:Phenomena|Phenomena]] ===
 
+* [[Alignment]]
 * [[Grokking]]
 
 === [[:Category:Theory|Theory]] ===
