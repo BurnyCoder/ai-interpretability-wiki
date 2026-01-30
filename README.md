@@ -13,6 +13,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Category | Description |
 |----------|-------------|
 | Highlighted work | Notable and influential work in AI interpretability |
+| Papers | Papers in AI interpretability |
 | Concepts | Core ideas and terminology |
 | Methods | Techniques and approaches used to interpret models |
 | Architectures for interpretability | Architectures used to interpret models |
@@ -33,6 +34,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ## All pages
 
 ### Highlighted work
+
+* Progress measures for grokking via mechanistic interpretability
+* Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+
+### Papers
 
 * Progress measures for grokking via mechanistic interpretability
 * Towards Monosemanticity: Decomposing Language Models With Dictionary Learning

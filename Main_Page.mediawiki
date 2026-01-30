@@ -14,6 +14,8 @@
 |-
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
 |-
+| [[:Category:Papers|Papers]] || Papers in AI interpretability
+|-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
@@ -50,6 +52,11 @@
 == Pages ==
 
 === [[:Category:Highlighted work|Highlighted work]] ===
+
+* [[Progress measures for grokking via mechanistic interpretability]]
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+
+=== [[:Category:Papers|Papers]] ===
 
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]

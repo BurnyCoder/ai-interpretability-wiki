@@ -178,6 +178,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── README.md
 ├── Main_Page.mediawiki
 ├── Highlighted_work.mediawiki
+├── Papers.mediawiki
 ├── Architectures_for_interpretability.mediawiki
 ├── Concepts.mediawiki
 ├── Communities.mediawiki
@@ -195,7 +196,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   └── Sparse_autoencoder.mediawiki
 ├── concepts/
 │   └── Feature.mediawiki
-├── highlighted-work/
+├── papers/
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
 │   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ├── communities/
@@ -224,8 +225,11 @@ This section documents the patterns currently in use across the wiki. Follow the
 
 ```
 Main_Page.mediawiki                          (hub — links to all categories)
-  └─ Highlighted_work.mediawiki              (category index page, root level)
-       └─ highlighted-work/                  (subdirectory, lowercase-hyphenated)
+  ├─ Highlighted_work.mediawiki              (category index page, root level)
+  │    └─ papers/                            (subdirectory, lowercase-hyphenated)
+  │         └─ Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+  └─ Papers.mediawiki                        (category index page, root level)
+       └─ papers/                            (subdirectory, shared with Highlighted work)
             └─ Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ```
 
@@ -236,7 +240,7 @@ Concrete example of how these files connect:
   ```
   * {{:Towards Monosemanticity: Decomposing Language Models With Dictionary Learning}}
   ```
-- `highlighted-work/Towards_Monosemanticity:_....mediawiki` (subdirectory) is the article. Its summary is wrapped in `<onlyinclude>` for transclusion, and it ends with `[[Category:Highlighted work]]`.
+- `papers/Towards_Monosemanticity:_....mediawiki` (subdirectory) is the article. Its summary is wrapped in `<onlyinclude>` for transclusion, and it ends with `[[Category:Highlighted work]]` and `[[Category:Papers]]`.
 
 ### Standard Article Structure
 
@@ -322,7 +326,7 @@ References use Wikipedia-style Citation Style 1 (CS1) plain-text formatting insi
 
 ### Category Taxonomy
 
-The Main Page defines 17 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
+The Main Page defines 18 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
 
 ```
 [[:Category:Name|Display Text]]
@@ -363,6 +367,8 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
 |-
+| [[:Category:Papers|Papers]] || Papers in AI interpretability
+|-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
@@ -399,6 +405,11 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 == Pages ==
 
 === [[:Category:Highlighted work|Highlighted work]] ===
+
+* [[Progress measures for grokking via mechanistic interpretability]]
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+
+=== [[:Category:Papers|Papers]] ===
 
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
