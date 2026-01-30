@@ -1,15 +1,35 @@
 <onlyinclude>
-- '''[[Feature]]''' is a property of an input to the model, or some subset of that input (eg a token in the prompt given to a language model, or a patch of an image).<ref name="nanda-glossary">Nanda, Neel (2022). [https://www.neelnanda.io/mechanistic-interpretability/glossary "A Comprehensive Mechanistic Interpretability Explainer & Glossary"].</ref> 
-- Features are the fundamental building block of models - the model's internal activations represent features, and the model's weights and non-linearities are used to apply computations to produce later features from earlier features."<ref name="nanda-glossary" />
+- '''[[Feature|Features]]''' are the fundamental building block of models - the model's internal activations represent features, and the model's weights and non-linearities are used to apply computations to produce later features from earlier features."<ref name="nanda-glossary">Nanda, Neel (2022). [https://www.neelnanda.io/mechanistic-interpretability/glossary "A Comprehensive Mechanistic Interpretability Explainer & Glossary"].</ref>
+
+- Feature is a property of an input to the model, or some subset of that input (eg a token in the prompt given to a language model, or a patch of an image).<ref name="nanda-glossary" /> 
+
+- Features are whatever the "independent units" a neural network representation can be decomposed into are.<ref name="olah-2022">Olah, Chris (2022-06-27). [https://transformer-circuits.pub/2022/mech-interp-essay/index.html "Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases"]. ''Transformer Circuits Thread''.</ref>
 </onlyinclude>
 
-Chris Olah offers several definitions:
-- Feature is "some meaningful, articulable property of the input which the network encodes as a direction in activation space." But this is "human centric" and "excludes the possibility of features humans don't understand."<ref name="olah-2022">Olah, Chris (2022-06-27). [https://transformer-circuits.pub/2022/mech-interp-essay/index.html "Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases"]. ''Transformer Circuits Thread''.</ref>
-- Features are "whatever the 'independent units' a neural network representation can be decomposed into are."<ref name="olah-2022" />
-- Features are "the things a network would ideally dedicate a neuron to if you gave it enough neurons."<ref name="olah-2022" />
-- The definition that features are "simply any function of the input" is unsatisfactory because "under this definition, any mixture of features is also a feature" - whereas "there's something importantly different about a 'car detector' (which seems to correspond to an important latent variable) from 'car and cat detector' (which seems to be an arbitrary mixture of things)."<ref name="olah-2022" />
+Other definitions:
 
-In practice, the term is "normally used to describe a property of an example input that is actually internally represented in the model, rather than a feature that could be in theory," and refers to "properties of inputs that generalise across inputs."<ref name="nanda-glossary" />
+- Feature is some meaningful, articulable property of the input which the network encodes as a direction in activation space. But this is human centric and excludes the possibility of features humans don't understand.<ref name="olah-2022" />
+
+- Features are the things a network would ideally dedicate a neuron to if you gave it enough neurons.<ref name="olah-2022" />
+
+- The definition that features are simply any function of the input is unsatisfactory because under this definition, any mixture of features is also a feature - whereas there's something importantly different about a 'car detector' (which seems to correspond to an important latent variable) from 'car and cat detector' (which seems to be an arbitrary mixture of things)."<ref name="olah-2022" />
+
+- In practice, the term is normally used to describe a property of an example input that is actually internally represented in the model, rather than a feature that could be in theory, and refers to properties of inputs that generalise across inputs.<ref name="nanda-glossary" />
+
+== Examples ==
+
+* This part of the image contains a curve
+* This is a feature in a convnet, where there's a neuron activation per image patch - thus "part of image"
+* This part of the image contains a dog fur-like texture
+* This token is the final token in the phrase "Eiffel Tower"
+* In a factual recall circuit, this can get looked up to produce the feature "is in Paris"
+* This is a feature in a transformer, where there are separate activations for each token in a sequence, thus "this token"
+* This text is Python code
+* This token is the name of a variable corresponding to a list in Python code
+* This token is in a news headline in a Reuters article
+* This token corresponds to a number that is being used to describe a group of people
+* This text is a Bible verse
+* This text is an excerpt from Harry Potter
 
 == References ==
 
