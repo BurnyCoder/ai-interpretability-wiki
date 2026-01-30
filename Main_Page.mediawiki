@@ -4,7 +4,7 @@
 
 '''Interpretability''' is "the broader subfield of AI studying why AI systems do what they do, and trying to put this into human-understandable terms."<ref name="nanda-glossary">[https://www.neelnanda.io/mechanistic-interpretability/glossary "Mechanistic Interpretability Glossary"]. ''Neel Nanda''.</ref> It is "the ability for the decision processes and inner workings of artificial intelligence and machine learning systems to be understood by humans or other outside observers."<ref name="lesswrong-interp" />
 
-'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a prominent subfield of interpretability within [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence explainable artificial intelligence] and the field of study that attempts to reverse engineer neural networks from the learned weights down to human-interpretable algorithms where it's possible. It attempts to understand how neural networks perform the tasks they perform by analyzing which mechanisms are present in their computations when they are present, for example by finding interpretable [[feature|features]] and [[circuit|circuits]] in transformer models using [[Sparse autoencoder|sparse autoencoders]] and [[Attribution graph|attribution graphs]], such as how models add two numbers together.<ref name="nanda-glossary" /><ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref><ref>[[On the Biology of a Large Language Model]].</ref> The approach is "analogous to reverse engineering a compiled program binary back to source code."<ref name="nanda-glossary" /> "Mechanistic" refers to the emphasis on trying to understand the actual mechanisms and algorithms that possibly compose the network.<ref name="nanda-glossary" /> "In contrast, many forms of interpretability seek to explain how the network's outputs relate high level concepts without referencing the actual functioning of the network."<ref name="nanda-glossary" /> "[[Saliency map|Saliency maps]] are a classic example,"<ref name="nanda-glossary" /> "seek[ing] to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse',"<ref name="lesswrong-interp" /> "as are 'build an interpretable model' techniques such as [[LIME]]."<ref name="nanda-glossary" />
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a prominent subfield of interpretability within [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence explainable artificial intelligence] and the field of study that attempts to reverse engineer neural networks from the learned weights down to human-interpretable algorithms where it's possible. It attempts to understand how neural networks perform the tasks they perform by analyzing which mechanisms are present in their computations when they are present, for example by finding interpretable [[feature|features]] and [[circuit|circuits]] in transformer models using [[Sparse autoencoder|sparse autoencoders]] and [[Attribution graph|attribution graphs]], such as how models add two numbers together.<ref name="nanda-glossary" /><ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref><ref>[[On the Biology of a Large Language Model]].</ref> The approach is "analogous to reverse engineering a compiled program binary back to source code."<ref name="nanda-glossary" /> "Mechanistic" refers to the emphasis on trying to understand the actual mechanisms and algorithms that possibly compose the network.<ref name="nanda-glossary" /> "In contrast, many forms of interpretability seek to explain how the network's outputs relate high level concepts without referencing the actual functioning of the network."<ref name="nanda-glossary" /> "[[Saliency map|Saliency maps]] are a classic example,"<ref name="nanda-glossary" /> "seeking to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse',"<ref name="lesswrong-interp" /> "as are 'build an interpretable model' techniques such as [[LIME]]."<ref name="nanda-glossary" />
 
 == Contents ==
 
@@ -70,6 +70,10 @@
 
 * [[Neel Nanda]]
 
+=== [[:Category:Communities|Communities]] ===
+
+* [[Mechanistic Interpretability Discord]]
+
 == Random page ==
 
 [[Special:Random|Click here to go to a random page on the wiki!]]
@@ -83,6 +87,6 @@
 * To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
 * To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh Dark Reader] Chrome extension, but it might be a bit broken.
 
-== Created by == 
+== Wiki created by == 
 
 * Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).

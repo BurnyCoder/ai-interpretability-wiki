@@ -180,6 +180,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Highlighted_work.mediawiki
 ├── Architectures_for_interpretability.mediawiki
 ├── Concepts.mediawiki
+├── Communities.mediawiki
 ├── People_and_groups.mediawiki
 ├── Phenomena.mediawiki
 ├── architectures-for-interpretability/
@@ -189,6 +190,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── highlighted-work/
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
 │   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+├── communities/
+│   └── Mechanistic_Interpretability_Discord.mediawiki
 ├── people-and-groups/
 │   └── Neel_Nanda.mediawiki
 └── phenomena/
@@ -374,6 +377,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### People and groups
 
 * Neel Nanda
+
+### Communities
+
+* Mechanistic Interpretability Discord
 
 ## Tips
 

@@ -53,6 +53,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Neel Nanda
 
+### Communities
+
+* Mechanistic Interpretability Discord
+
 ## Tips
 
 * To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".

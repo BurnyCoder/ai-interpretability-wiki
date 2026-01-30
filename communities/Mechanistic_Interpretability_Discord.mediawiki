@@ -1,0 +1,7 @@
+<onlyinclude>The '''[[Mechanistic Interpretability Discord]]''' is a [https://discord.com/invite/TnTGx7cQwh Discord community] for mechanistic interpretability where members share and discuss mechinterp research, attend a weekly paper reading group, work on community projects, attend hackathons, etc..<ref name="mechinterp-site">[https://mechinterp.com/ "Mechanistic Interpretability"]. ''mechinterp.com''.</ref></onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Communities]]
