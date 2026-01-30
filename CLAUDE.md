@@ -345,7 +345,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Phenomena | Behaviors and properties analyzed |
 | Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
 | AI architectures | Architectures of studied models |
-| Interpretable architectures | Architectures that are designed to be more interpretable |
+| Interpretability architectures | Architectures that are designed to be more interpretable |
 | Surveys | Survey papers and literature reviews |
 | Github codebases | Code repositories |
 | People and groups | Researchers, labs, and organizations |
@@ -391,6 +391,6 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 [Click here to go to a random page on the wiki!](https://aiinterpretability.miraheze.org/wiki/Special:Random)
 
-## Created by
+## Wiki created by
 
-* Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech), [GitHub](https://github.com/BurnyCoder), [LinkedIn](https://www.linkedin.com/in/libor-burian-1113b0207/), [Facebook](https://www.facebook.com/burian.libor/), [Telegram](https://t.me/burnytech), [BlueSky](https://burnytech.bsky.social), [Mastodon](https://mathstodon.xyz/@Burny), [Patreon](https://patreon.com/BurnyTech), Discord: burnytech, [burian.lib@gmail.com](mailto:burian.lib@gmail.com)).
+* Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech), [GitHub](https://github.com/BurnyCoder), [LinkedIn](https://www.linkedin.com/in/libor-burian-1113b0207/), [Facebook](https://www.facebook.com/burian.libor/), [Telegram](https://t.me/burnytech), [BlueSky](https://burnytech.bsky.social), [Mastodon](https://mathstodon.xyz/@Burny), Discord: burnytech, [burian.lib@gmail.com](mailto:burian.lib@gmail.com)).
