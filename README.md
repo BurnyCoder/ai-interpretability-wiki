@@ -63,6 +63,12 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Grokking
 
+### Theory
+
+* A Mathematical Framework for Transformer Circuits
+* The Principles of Deep Learning Theory
+* Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+
 ### Surveys
 
 * Mechanistic Interpretability for AI Safety -- A Review

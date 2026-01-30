@@ -1,0 +1,9 @@
+<onlyinclude>
+'''[[The Principles of Deep Learning Theory]]''' "develops an effective theory approach to understanding deep neural networks of practical relevance" and demonstrates that "the predictions of networks are described by nearly-Gaussian distributions, with the depth-to-width aspect ratio of the network controlling the deviations from the infinite-width Gaussian description."<ref>Roberts, Daniel A.; Yaida, Sho; Hanin, Boris (2021). [https://arxiv.org/abs/2106.10165 "The Principles of Deep Learning Theory"]. arXiv:[https://arxiv.org/abs/2106.10165 2106.10165].</ref>
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Theory]]

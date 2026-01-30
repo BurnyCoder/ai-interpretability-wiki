@@ -186,6 +186,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Phenomena.mediawiki
 ├── Methods.mediawiki
 ├── AI_architectures.mediawiki
+├── Theory.mediawiki
 ├── Surveys.mediawiki
 ├── Feeds.mediawiki
 ├── Github_codebases.mediawiki
@@ -210,6 +211,10 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── feeds/
 │   ├── Anthropic_Interpretability_research.mediawiki
 │   └── Transformer_Circuits_Thread.mediawiki
+├── theory/
+│   ├── A_Mathematical_Framework_for_Transformer_Circuits.mediawiki
+│   ├── The_Principles_of_Deep_Learning_Theory.mediawiki
+│   └── Geometric_Deep_Learning:_Grids,_Groups,_Graphs,_Geodesics,_and_Gauges.mediawiki
 ├── surveys/
 │   ├── Mechanistic_Interpretability_for_AI_Safety_--_A_Review.mediawiki
 │   ├── Locate,_Steer,_and_Improve:_A_Practical_Survey_of_Actionable_Mechanistic_Interpretability_in_Large_Language_Models.mediawiki
@@ -433,6 +438,12 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:Phenomena|Phenomena]] ===
 
 * [[Grokking]]
+
+=== [[:Category:Theory|Theory]] ===
+
+* [[A Mathematical Framework for Transformer Circuits]]
+* [[The Principles of Deep Learning Theory]]
+* [[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges]]
 
 === [[:Category:Surveys|Surveys]] ===
 

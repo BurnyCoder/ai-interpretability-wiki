@@ -80,6 +80,12 @@
 
 * [[Grokking]]
 
+=== [[:Category:Theory|Theory]] ===
+
+* [[A Mathematical Framework for Transformer Circuits]]
+* [[The Principles of Deep Learning Theory]]
+* [[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges]]
+
 === [[:Category:Surveys|Surveys]] ===
 
 * [[Mechanistic Interpretability for AI Safety -- A Review]]
