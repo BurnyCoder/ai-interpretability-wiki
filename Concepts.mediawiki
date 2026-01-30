@@ -2,12 +2,12 @@ Core ideas and terminology in AI interpretability.
 
 * {{:Feature}}
 * {{:Circuit}}
-* {{:Pragmatic interpretability}}
-* {{:Explainable AI}}
 * {{:Polysemanticity}}
 * {{:Monosemanticity}}
 * {{:Superposition}}
 * {{:Attribution graph}}
+* {{:Pragmatic interpretability}}
+* {{:Explainable AI}}
 
 == References ==
 

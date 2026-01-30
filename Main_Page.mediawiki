@@ -66,12 +66,12 @@
 
 * [[Feature]]
 * [[Circuit]]
-* [[Pragmatic interpretability]]
-* [[Explainable AI]]
 * [[Polysemanticity]]
 * [[Monosemanticity]]
 * [[Superposition]]
 * [[Attribution graph]]
+* [[Pragmatic interpretability]]
+* [[Explainable AI]]
 
 === [[:Category:Methods|Methods]] ===
 
