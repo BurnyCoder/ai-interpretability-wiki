@@ -13,16 +13,16 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Category | Description |
 |----------|-------------|
 | Highlighted work | Notable and influential work in AI interpretability |
-| Papers | Papers in AI interpretability |
 | Concepts | Core ideas and terminology |
 | Methods | Techniques and approaches used to interpret models |
 | Architectures for interpretability | Architectures used to interpret models |
 | Applications | Practical uses and deployments |
 | Phenomena | Behaviors and properties analyzed |
+| Surveys | Survey papers and literature reviews |
 | Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
+| Papers | Papers in AI interpretability |
 | AI architectures | Architectures of studied models |
 | Interpretability architectures | Architectures that are designed to be more interpretable |
-| Surveys | Survey papers and literature reviews |
 | Github codebases | Code repositories |
 | People and groups | Researchers, labs, and organizations |
 | Communities | Communities on Discord, Slack, etc. |
@@ -40,23 +40,16 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * On the Biology of a Large Language Model
 * When Models Manipulate Manifolds: The Geometry of a Counting Task
 
-### Papers
-
-* Progress measures for grokking via mechanistic interpretability
-* Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
-* On the Biology of a Large Language Model
-* When Models Manipulate Manifolds: The Geometry of a Counting Task
-
 ### Concepts
 
 * Feature
 * Circuit
-* Pragmatic interpretability
-* Explainable AI
 * Polysemanticity
 * Monosemanticity
 * Superposition
 * Attribution graph
+* Pragmatic interpretability
+* Explainable AI
 
 ### Methods
 
@@ -131,14 +124,21 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * ARENA
 * How to become a mechanistic interpretability researcher
 
-## Tips
+### Papers
 
-* To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
-* To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Chrome extension, but it might be a bit broken.
+* Progress measures for grokking via mechanistic interpretability
+* Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+* On the Biology of a Large Language Model
+* When Models Manipulate Manifolds: The Geometry of a Counting Task
 
 ## Random page
 
 [Click here to go to a random page on the wiki!](https://aiinterpretability.miraheze.org/wiki/Special:Random)
+
+## Tips
+
+* To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
+* To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Chrome extension, but it might be a bit broken.
 
 ## Wiki created by
 

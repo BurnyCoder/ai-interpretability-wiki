@@ -371,7 +371,11 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 
 '''Interpretability''' is "the broader subfield of AI studying why AI systems do what they do, and trying to put this into human-understandable terms."<ref name="nanda-glossary">[https://www.neelnanda.io/mechanistic-interpretability/glossary "Mechanistic Interpretability Glossary"]. ''Neel Nanda''.</ref> It is "the ability for the decision processes and inner workings of artificial intelligence and machine learning systems to be understood by humans or other outside observers."<ref name="lesswrong-interp" />
 
-'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a prominent subfield of interpretability within [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence explainable artificial intelligence] and the field of study that attempts to reverse engineer neural networks from the learned weights down to human-interpretable algorithms where it's possible. It attempts to understand how neural networks perform the tasks they perform by analyzing which mechanisms are present in their computations when they are present, for example by finding interpretable [[feature|features]] and [[circuit|circuits]] in transformer models using [[Sparse autoencoder|sparse autoencoders]] and [[Attribution graph|attribution graphs]], such as how models add two numbers together.<ref name="nanda-glossary" /><ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref><ref>[[On the Biology of a Large Language Model]].</ref> The approach is "analogous to reverse engineering a compiled program binary back to source code."<ref name="nanda-glossary" /> "Mechanistic" refers to the emphasis on trying to understand the actual mechanisms and algorithms that possibly compose the network.<ref name="nanda-glossary" /> "In contrast, many forms of interpretability seek to explain how the network's outputs relate high level concepts without referencing the actual functioning of the network."<ref name="nanda-glossary" /> "[[Saliency map|Saliency maps]] are a classic example,"<ref name="nanda-glossary" /> "seeking to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse',"<ref name="lesswrong-interp" /> "as are 'build an interpretable model' techniques such as [[LIME]]."<ref name="nanda-glossary" />
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a prominent subfield of interpretability within [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence explainable artificial intelligence] and the field of study that attempts to reverse engineer neural networks from the learned weights down to human-interpretable algorithms where it's possible. It attempts to understand how neural networks perform the tasks they perform by analyzing which mechanisms are present in their computations when they are present, for example by finding interpretable [[feature|features]] and [[circuit|circuits]] in transformer models using [[Sparse autoencoder|sparse autoencoders]] and [[Attribution graph|attribution graphs]], such as how models add two numbers together.<ref name="nanda-glossary" /><ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref><ref>Lindsey, Jack; Gurnee, Wes; Ameisen, Emmanuel; et al. (2025-03-27). [https://transformer-circuits.pub/2025/attribution-graphs/biology.html "On the Biology of a Large Language Model"]. ''Transformer Circuits Thread''.</ref> The approach is "analogous to reverse engineering a compiled program binary back to source code."<ref name="nanda-glossary" /> "Mechanistic" refers to the emphasis on trying to understand the actual mechanisms and algorithms that possibly compose the network.<ref name="nanda-glossary" /> "In contrast, many forms of interpretability seek to explain how the network's outputs relate high level concepts without referencing the actual functioning of the network."<ref name="nanda-glossary" /> "[[Saliency map|Saliency maps]] are a classic example,"<ref name="nanda-glossary" /> "seeking to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse',"<ref name="lesswrong-interp" /> "as are 'build an interpretable model' techniques such as [[LIME]]."<ref name="nanda-glossary" />
+
+== References ==
+
+<references />
 
 == Contents ==
 
@@ -380,8 +384,6 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 ! Category !! Description
 |-
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
-|-
-| [[:Category:Papers|Papers]] || Papers in AI interpretability
 |-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
@@ -393,13 +395,15 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
+| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+|-
 | [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:Papers|Papers]] || Papers in AI interpretability
 |-
 | [[:Category:AI architectures|AI architectures]] || Architectures of studied models 
 |-
 | [[:Category:Interpretable architectures|Interpretability architectures]] || Architectures that are designed to be more interpretable
-|-
-| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-
 | [[:Category:Github codebases|Github codebases]] || Code repositories
 |-
@@ -425,23 +429,16 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[On the Biology of a Large Language Model]]
 * [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
 
-=== [[:Category:Papers|Papers]] ===
-
-* [[Progress measures for grokking via mechanistic interpretability]]
-* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
-* [[On the Biology of a Large Language Model]]
-* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
-
 === [[:Category:Concepts|Concepts]] ===
 
 * [[Feature]]
 * [[Circuit]]
-* [[Pragmatic interpretability]]
-* [[Explainable AI]]
 * [[Polysemanticity]]
 * [[Monosemanticity]]
 * [[Superposition]]
 * [[Attribution graph]]
+* [[Pragmatic interpretability]]
+* [[Explainable AI]]
 
 === [[:Category:Methods|Methods]] ===
 
@@ -516,13 +513,16 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[ARENA]]
 * [[How to become a mechanistic interpretability researcher]]
 
+=== [[:Category:Papers|Papers]] ===
+
+* [[Progress measures for grokking via mechanistic interpretability]]
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+* [[On the Biology of a Large Language Model]]
+* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
+
 == Random page ==
 
 [[Special:Random|Click here to go to a random page on the wiki!]]
-
-== References ==
-
-<references />
 
 == Tips ==
 
