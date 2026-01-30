@@ -1,5 +1,5 @@
 <onlyinclude>
-A '''sparse autoencoder''' ('''SAE''') is "a weak dictionary learning algorithm [...] to generate learned features from a trained model that offer a more monosemantic unit of analysis than the model's neurons themselves."<ref>[https://transformer-circuits.pub/2023/monosemantic-features/index.html Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — Transformer Circuits Thread] (paper)</ref>
+A '''[[Sparse autoencoder|sparse autoencoder]]''' ('''SAE''') is "a weak dictionary learning algorithm [...] to generate learned features from a trained model that offer a more monosemantic unit of analysis than the model's neurons themselves."<ref>[https://transformer-circuits.pub/2023/monosemantic-features/index.html Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — Transformer Circuits Thread] (paper)</ref>
 </onlyinclude>
 
 == References ==

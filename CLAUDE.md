@@ -240,10 +240,13 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 ### Formatting Conventions
 
 - **Bold** (`'''...'''`) is used to introduce key terms and abbreviations on first mention.
+- **Clickable article titles**: The first bold mention of an article's own title in its `<onlyinclude>` summary must be a wikilink so it is clickable when transcluded on index pages. Use `'''[[Page Name]]'''` or `'''[[Page Name|display text]]'''`.
 - Level 2 headings (`== ... ==`) only — level 1 is reserved for the page title.
 - Blank lines separate sections and structural elements; no multiple consecutive blank lines.
 
 ##Additional rules
+
+- Commit and push to GitHub after each change
 
 - When updating @Main_Page.mediawiki, also update README.md and CLAUDE.md with same edits
 
