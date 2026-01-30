@@ -194,6 +194,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── methods/
 │   └── Dictionary_learning.mediawiki
 ├── architectures-for-interpretability/
+│   ├── Crosslayer_transcoder.mediawiki
+│   ├── Linear_probe.mediawiki
 │   └── Sparse_autoencoder.mediawiki
 ├── concepts/
 │   └── Feature.mediawiki
@@ -432,6 +434,8 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:Architectures for interpretability|Architectures for interpretability]] ===
 
 * [[Sparse autoencoder]]
+* [[Linear probe]]
+* [[Crosslayer transcoder]]
 
 === [[:Category:AI architectures|AI architectures]] ===
 

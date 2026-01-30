@@ -54,6 +54,8 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### Architectures for interpretability
 
 * Sparse autoencoder
+* Linear probe
+* Crosslayer transcoder
 
 ### AI architectures
 

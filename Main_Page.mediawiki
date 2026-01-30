@@ -71,6 +71,8 @@
 === [[:Category:Architectures for interpretability|Architectures for interpretability]] ===
 
 * [[Sparse autoencoder]]
+* [[Linear probe]]
+* [[Crosslayer transcoder]]
 
 === [[:Category:AI architectures|AI architectures]] ===
 
