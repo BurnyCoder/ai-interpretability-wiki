@@ -1,0 +1,13 @@
+<onlyinclude>
+'''[[Dictionary learning]]''' is one of the names for "the problem of finding a sparse representation of dense data" where "the matrix projecting sparse vectors into the lower dimensional space is also unknown."<ref name="toy-models">Elhage, Nelson; Hume, Tristan; Olsson, Catherine; et al. (2022). [https://transformer-circuits.pub/2022/toy_model/index.html "Toy Models of Superposition"]. ''Transformer Circuits Thread''.</ref> "This topic goes by many different names including sparse coding (most common in neuroscience), dictionary learning (in computer science), and sparse frame design (in mathematics)."<ref name="toy-models" /> In the context of mechanistic interpretability, dictionary learning is used to "take the activations of neural network layers and find out which directions correspond to [[Feature|features]]."<ref name="toy-models" />
+</onlyinclude>
+
+== References ==
+
+<references />
+
+== Created by ==
+
+* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], [https://patreon.com/BurnyTech Patreon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).
+
+[[Category:Methods]]

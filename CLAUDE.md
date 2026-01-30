@@ -183,6 +183,9 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Communities.mediawiki
 ├── People_and_groups.mediawiki
 ├── Phenomena.mediawiki
+├── Methods.mediawiki
+├── methods/
+│   └── Dictionary_learning.mediawiki
 ├── architectures-for-interpretability/
 │   └── Sparse_autoencoder.mediawiki
 ├── concepts/
@@ -365,6 +368,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### Concepts
 
 * Feature
+
+### Methods
+
+* Dictionary learning
 
 ### Architectures for interpretability
 

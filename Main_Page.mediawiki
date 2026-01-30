@@ -58,6 +58,10 @@
 
 * [[Feature]]
 
+=== [[:Category:Methods|Methods]] ===
+
+* [[Dictionary learning]]
+
 === [[:Category:Architectures for interpretability|Architectures for interpretability]] ===
 
 * [[Sparse autoencoder]]

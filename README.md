@@ -41,6 +41,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Feature
 
+### Methods
+
+* Dictionary learning
+
 ### Architectures for interpretability
 
 * Sparse autoencoder
