@@ -187,6 +187,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── AI_architectures.mediawiki
 ├── Surveys.mediawiki
 ├── Feeds.mediawiki
+├── Github_codebases.mediawiki
 ├── Resources_for_learning.mediawiki
 ├── methods/
 │   └── Dictionary_learning.mediawiki
@@ -203,6 +204,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   └── Neel_Nanda.mediawiki
 ├── ai-architectures/
 │   └── Transformer.mediawiki
+├── github-codebases/
+│   └── TransformerLens.mediawiki
 ├── feeds/
 │   ├── Anthropic_Interpretability_research.mediawiki
 │   └── Transformer_Circuits_Thread.mediawiki
@@ -419,6 +422,10 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 * [[Mechanistic Interpretability for AI Safety -- A Review]]
 * [[Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models]]
 * [[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2]]
+
+=== [[:Category:Github codebases|Github codebases]] ===
+
+* [[TransformerLens]]
 
 === [[:Category:People and groups|People and groups]] ===
 

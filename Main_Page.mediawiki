@@ -80,6 +80,10 @@
 * [[Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models]]
 * [[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2]]
 
+=== [[:Category:Github codebases|Github codebases]] ===
+
+* [[TransformerLens]]
+
 === [[:Category:People and groups|People and groups]] ===
 
 * [[Neel Nanda]]

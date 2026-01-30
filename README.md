@@ -63,6 +63,10 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
 * An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2
 
+### Github codebases
+
+* TransformerLens
+
 ### People and groups
 
 * Neel Nanda
