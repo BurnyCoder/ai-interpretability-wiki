@@ -38,12 +38,14 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Progress measures for grokking via mechanistic interpretability
 * Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
 * On the Biology of a Large Language Model
+* When Models Manipulate Manifolds: The Geometry of a Counting Task
 
 ### Papers
 
 * Progress measures for grokking via mechanistic interpretability
 * Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
 * On the Biology of a Large Language Model
+* When Models Manipulate Manifolds: The Geometry of a Counting Task
 
 ### Concepts
 

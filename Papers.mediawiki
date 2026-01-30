@@ -3,6 +3,7 @@ Papers in AI interpretability.
 * {{:Towards Monosemanticity: Decomposing Language Models With Dictionary Learning}}
 * {{:Progress measures for grokking via mechanistic interpretability}}
 * {{:On the Biology of a Large Language Model}}
+* {{:When Models Manipulate Manifolds: The Geometry of a Counting Task}}
 
 == References ==
 

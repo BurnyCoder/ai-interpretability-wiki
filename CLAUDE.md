@@ -421,12 +421,14 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
 * [[On the Biology of a Large Language Model]]
+* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
 
 === [[:Category:Papers|Papers]] ===
 
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
 * [[On the Biology of a Large Language Model]]
+* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
 
 === [[:Category:Concepts|Concepts]] ===
 

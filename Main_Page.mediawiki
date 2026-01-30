@@ -60,6 +60,7 @@
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
 * [[On the Biology of a Large Language Model]]
+* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
 
 === [[:Category:Concepts|Concepts]] ===
 
@@ -130,6 +131,7 @@
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
 * [[On the Biology of a Large Language Model]]
+* [[When Models Manipulate Manifolds: The Geometry of a Counting Task]]
 
 == Random page ==
 
