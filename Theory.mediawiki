@@ -1,8 +1,8 @@
 Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability.
 
 * {{:A Mathematical Framework for Transformer Circuits}}
-* {{:The Principles of Deep Learning Theory}}
 * {{:Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges}}
+* {{:The Principles of Deep Learning Theory}}
 
 == References ==
 
