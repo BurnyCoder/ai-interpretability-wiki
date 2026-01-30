@@ -7,3 +7,4 @@
 <references />
 
 [[Category:Surveys]]
+[[Category:Papers]]
