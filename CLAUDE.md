@@ -186,6 +186,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Methods.mediawiki
 ├── AI_architectures.mediawiki
 ├── Surveys.mediawiki
+├── Feeds.mediawiki
 ├── methods/
 │   └── Dictionary_learning.mediawiki
 ├── architectures-for-interpretability/
@@ -201,6 +202,9 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   └── Neel_Nanda.mediawiki
 ├── ai-architectures/
 │   └── Transformer.mediawiki
+├── feeds/
+│   ├── Anthropic_Interpretability_research.mediawiki
+│   └── Transformer_Circuits_Thread.mediawiki
 ├── surveys/
 │   ├── Mechanistic_Interpretability_for_AI_Safety_--_A_Review.mediawiki
 │   ├── Locate,_Steer,_and_Improve:_A_Practical_Survey_of_Actionable_Mechanistic_Interpretability_in_Large_Language_Models.mediawiki
@@ -330,88 +334,109 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 ## Contents of @Main_Page.mediawiki
 
-# AI Interpretability Wiki
+== Welcome to {{SITENAME}} wiki! ==
 
-A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.miraheze.org/), written in MediaWiki and hosted on Miraheze.
+"Present-day [https://en.wikipedia.org/wiki/Artificial_intelligence artificial intelligence] and [https://en.wikipedia.org/wiki/Machine_learning machine learning] systems are typically not very transparent or interpretable. You can use a model's output, but the model can't tell you why it made that output. This makes it hard to determine the cause of biases in ML models."<ref name="lesswrong-interp">[https://www.lesswrong.com/w/interpretability-ml-and-ai "Interpretability (ML & AI)"]. ''LessWrong''.</ref>
 
-## About
+'''Interpretability''' is "the broader subfield of AI studying why AI systems do what they do, and trying to put this into human-understandable terms."<ref name="nanda-glossary">[https://www.neelnanda.io/mechanistic-interpretability/glossary "Mechanistic Interpretability Glossary"]. ''Neel Nanda''.</ref> It is "the ability for the decision processes and inner workings of artificial intelligence and machine learning systems to be understood by humans or other outside observers."<ref name="lesswrong-interp" />
 
-**Interpretability** is the ability for the decision processes and inner workings of artificial intelligence and machine learning systems to be understood by humans or other outside observers. [[source](https://www.lesswrong.com/w/interpretability-ml-and-ai)]
+'''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a prominent subfield of interpretability within [https://en.wikipedia.org/wiki/Explainable_artificial_intelligence explainable artificial intelligence] and the field of study that attempts to reverse engineer neural networks from the learned weights down to human-interpretable algorithms where it's possible. It attempts to understand how neural networks perform the tasks they perform by analyzing which mechanisms are present in their computations when they are present, for example by finding interpretable [[feature|features]] and [[circuit|circuits]] in transformer models using [[Sparse autoencoder|sparse autoencoders]] and [[Attribution graph|attribution graphs]], such as how models add two numbers together.<ref name="nanda-glossary" /><ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref><ref>[[On the Biology of a Large Language Model]].</ref> The approach is "analogous to reverse engineering a compiled program binary back to source code."<ref name="nanda-glossary" /> "Mechanistic" refers to the emphasis on trying to understand the actual mechanisms and algorithms that possibly compose the network.<ref name="nanda-glossary" /> "In contrast, many forms of interpretability seek to explain how the network's outputs relate high level concepts without referencing the actual functioning of the network."<ref name="nanda-glossary" /> "[[Saliency map|Saliency maps]] are a classic example,"<ref name="nanda-glossary" /> "seeking to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse',"<ref name="lesswrong-interp" /> "as are 'build an interpretable model' techniques such as [[LIME]]."<ref name="nanda-glossary" />
 
-**Mechanistic interpretability** (often abbreviated as **mech interp**, **mechinterp**, or **MI**) is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions. [[source](https://en.wikipedia.org/wiki/Mechanistic_interpretability)] "This can be contrasted to subfieds of interpretability which seek to attribute some output to a part of a specific input, such as clarifying which pixels in an input image caused a computer vision model to output the classification 'horse'." [[source](https://www.lesswrong.com/w/interpretability-ml-and-ai)]
+== Contents ==
 
-## Contents
+{| class="wikitable" style="width:100%;"
+|-
+! Category !! Description
+|-
+| [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
+|-
+| [[:Category:Concepts|Concepts]] || Core ideas and terminology
+|-
+| [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
+|-
+| [[:Category:Architectures for interpretability|Architectures for interpretability]] || Architectures used to interpret models
+|-
+| [[:Category:Applications|Applications]] || Practical uses and deployments
+|-
+| [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
+|-
+| [[:Category:Theory|Theory]] || Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability
+|-
+| [[:Category:AI architectures|AI architectures]] || Architectures of studied models 
+|-
+| [[:Category:Interpretable architectures|Interpretability architectures]] || Architectures that are designed to be more interpretable
+|-
+| [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
+|-
+| [[:Category:Github codebases|Github codebases]] || Code repositories
+|-
+| [[:Category:People and groups|People and groups]] || Researchers, labs, and organizations 
+|-
+| [[:Category:Communities|Communities]] || Communities on Discord, Slack, etc.
+|-
+| [[:Category:Feeds|Feeds]] || Feeds for papers, blogs, newsletters, and content feeds
+|-
+| [[:Category:Youtube channels|Youtube channels]] || Video content and educational channels
+|-
+| [[:Category:Resources for learning|Resources for learning]] || Tutorials, courses, and learning materials
+|-
+| [[:Category:Events|Events]] || Conferences, workshops, and meetups
+|}
 
-| Category | Description |
-|----------|-------------|
-| Highlighted work | Notable and influential work in AI interpretability |
-| Concepts | Core ideas and terminology |
-| Methods | Techniques and approaches used to interpret models |
-| Architectures for interpretability | Architectures used to interpret models |
-| Applications | Practical uses and deployments |
-| Phenomena | Behaviors and properties analyzed |
-| Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
-| AI architectures | Architectures of studied models |
-| Interpretability architectures | Architectures that are designed to be more interpretable |
-| Surveys | Survey papers and literature reviews |
-| Github codebases | Code repositories |
-| People and groups | Researchers, labs, and organizations |
-| Communities | Communities on Discord, Slack, etc. |
-| Feeds | Blogs, newsletters, and content feeds |
-| Youtube channels | Video content and educational channels |
-| Resources for learning | Tutorials, courses, and learning materials |
-| Events | Conferences, workshops, and meetups |
+== Pages ==
 
-## All pages
+=== [[:Category:Highlighted work|Highlighted work]] ===
 
-### Highlighted work
+* [[Progress measures for grokking via mechanistic interpretability]]
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
 
-* Progress measures for grokking via mechanistic interpretability
-* Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+=== [[:Category:Concepts|Concepts]] ===
 
-### Concepts
+* [[Feature]]
 
-* Feature
+=== [[:Category:Methods|Methods]] ===
 
-### Methods
+* [[Dictionary learning]]
 
-* Dictionary learning
+=== [[:Category:Architectures for interpretability|Architectures for interpretability]] ===
 
-### Architectures for interpretability
+* [[Sparse autoencoder]]
 
-* Sparse autoencoder
+=== [[:Category:AI architectures|AI architectures]] ===
 
-### AI architectures
+* [[Transformer]]
 
-* Transformer
+=== [[:Category:Phenomena|Phenomena]] ===
 
-### Phenomena
+* [[Grokking]]
 
-* Grokking
+=== [[:Category:Surveys|Surveys]] ===
 
-### Surveys
+* [[Mechanistic Interpretability for AI Safety -- A Review]]
+* [[Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models]]
+* [[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2]]
 
-* Mechanistic Interpretability for AI Safety -- A Review
-* Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
-* An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2
+=== [[:Category:People and groups|People and groups]] ===
 
-### People and groups
+* [[Neel Nanda]]
 
-* Neel Nanda
+=== [[:Category:Communities|Communities]] ===
 
-### Communities
+* [[Mech Interp discord]]
 
-* Mech Interp discord
+== Random page ==
 
-## Tips
+[[Special:Random|Click here to go to a random page on the wiki!]]
+
+== References ==
+
+<references />
+
+== Tips ==
 
 * To check which pages link to the page you're on, go to the Tools menu on the top right and click on "What links here".
-* To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [Dark Reader](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Chrome extension, but it might be a bit broken.
+* To enable dark mode, log in, go to Preferences, Appearance, and select Dark. Alternatively, use the [https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh Dark Reader] Chrome extension, but it might be a bit broken.
 
-## Random page
+== Wiki created by == 
 
-[Click here to go to a random page on the wiki!](https://aiinterpretability.miraheze.org/wiki/Special:Random)
-
-## Wiki created by
-
-* Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech), [GitHub](https://github.com/BurnyCoder), [LinkedIn](https://www.linkedin.com/in/libor-burian-1113b0207/), [Facebook](https://www.facebook.com/burian.libor/), [Telegram](https://t.me/burnytech), [BlueSky](https://burnytech.bsky.social), [Mastodon](https://mathstodon.xyz/@Burny), Discord: burnytech, [burian.lib@gmail.com](mailto:burian.lib@gmail.com)).
+* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).

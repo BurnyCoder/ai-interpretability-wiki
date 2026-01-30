@@ -38,7 +38,7 @@
 |-
 | [[:Category:Communities|Communities]] || Communities on Discord, Slack, etc.
 |-
-| [[:Category:Feeds|Feeds]] || Blogs, newsletters, and content feeds
+| [[:Category:Feeds|Feeds]] || Feeds for papers, blogs, newsletters, and content feeds
 |-
 | [[:Category:Youtube channels|Youtube channels]] || Video content and educational channels
 |-
@@ -87,6 +87,11 @@
 === [[:Category:Communities|Communities]] ===
 
 * [[Mech Interp discord]]
+
+=== [[:Category:Feeds|Feeds]] ===
+
+* [[Anthropic Interpretability research]]
+* [[Transformer Circuits Thread]]
 
 == Random page ==
 

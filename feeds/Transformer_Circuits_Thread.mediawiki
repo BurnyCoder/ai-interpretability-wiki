@@ -1,0 +1,7 @@
+<onlyinclude>'''[[Transformer Circuits Thread]]''' is Anthropic's interpretability research thread that aims to "reverse engineer transformer language models into human-understandable computer programs."<ref>[https://transformer-circuits.pub/ "Transformer Circuits Thread"]. ''Anthropic''.</ref></onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Feeds]]

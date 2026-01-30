@@ -25,7 +25,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Github codebases | Code repositories |
 | People and groups | Researchers, labs, and organizations |
 | Communities | Communities on Discord, Slack, etc. |
-| Feeds | Blogs, newsletters, and content feeds |
+| Feeds | Feeds for papers, blogs, newsletters, and content feeds |
 | Youtube channels | Video content and educational channels |
 | Resources for learning | Tutorials, courses, and learning materials |
 | Events | Conferences, workshops, and meetups |
@@ -70,6 +70,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### Communities
 
 * Mech Interp discord
+
+### Feeds
+
+* Anthropic Interpretability research
+* Transformer Circuits Thread
 
 ## Tips
 
