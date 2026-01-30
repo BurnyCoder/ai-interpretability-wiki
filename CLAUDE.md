@@ -395,7 +395,7 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Phenomena|Phenomena]] || Behaviors and properties analyzed
 |-
-| [[:Category:Features and circuits|Features and circuits]] || [[Feature|Features]] and [[Circuit|circuits]] identified and analyzed in neural networks
+| [[Feature|Features]] and [[Circuit|circuits]] || Features and circuits identified and analyzed in neural networks
 |-
 | [[:Category:Surveys|Surveys]] || Survey papers and literature reviews
 |-

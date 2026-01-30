@@ -18,7 +18,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Architectures for interpretability | Architectures used to interpret models |
 | Applications | Practical uses and deployments |
 | Phenomena | Behaviors and properties analyzed |
-| Features and circuits | [Features](Feature) and [circuits](Circuit) identified and analyzed in neural networks |
+| [Features](Feature) and [circuits](Circuit) | Features and circuits identified and analyzed in neural networks |
 | Surveys | Survey papers and literature reviews |
 | Theory | Theoretical foundations, mathematical and formal frameworks in AI and AI interpretability |
 | Papers | Papers in AI interpretability |
