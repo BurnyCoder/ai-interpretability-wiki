@@ -1,0 +1,115 @@
+This page describes how to create and format pages on {{SITENAME}}.
+
+== File and directory organization ==
+
+* '''Root level''': The Main Page and category index pages (e.g., <code>Highlighted_work.mediawiki</code>) are stored at the root level of the repository.
+* '''Subdirectories''': Individual articles are grouped by category in lowercase-hyphenated directories (e.g., <code>highlighted-work/</code>).
+* '''File naming''': Use underscores for spaces and preserve colons. Example: <code>Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki</code>.
+
+=== Page hierarchy ===
+
+<pre>
+Main_Page.mediawiki                          (hub — links to all categories)
+  └─ Highlighted_work.mediawiki              (category index page, root level)
+       └─ highlighted-work/                  (subdirectory, lowercase-hyphenated)
+            └─ Article_Name.mediawiki        (individual article)
+</pre>
+
+* <code>Main_Page.mediawiki</code> links to each category using <code><nowiki>[[:Category:Category Name|Display Text]]</nowiki></code>.
+* Category index pages (e.g., <code>Highlighted_work.mediawiki</code>) transclude articles using <code><nowiki>* {{:Article Title}}</nowiki></code>.
+* Article pages wrap their summary in <code><nowiki><onlyinclude></nowiki></code> tags so only the summary is pulled in when transcluded.
+
+== Standard article structure ==
+
+Every article page follows this layout:
+
+<pre>
+<onlyinclude>
+'''[[Article Title]]''' summary paragraph with inline <ref> citations.
+</onlyinclude>
+
+Author/publication metadata (e.g., "It is a 2023 paper by ...").
+
+== References ==
+
+<references />
+
+== Created by ==
+
+* Burny (links...).
+
+[[Category:Category Name]]
+</pre>
+
+* <code><nowiki><onlyinclude></nowiki></code> wraps only the summary so index pages can transclude a short description. Author and publication metadata goes after the closing <code><nowiki></onlyinclude></nowiki></code> tag so it does not appear in transclusions.
+* The first bold mention of the article's own title in the summary must be a wikilink so it is clickable when transcluded: <code><nowiki>'''[[Page Name]]'''</nowiki></code>.
+* The references section comes after the metadata.
+* The category assignment is always the last line of the file.
+
+== Adding a page to the category index ==
+
+Category index pages list articles using full-page transclusion:
+
+<pre>
+* {{:Article Title}}
+</pre>
+
+Because articles use <code><nowiki><onlyinclude></nowiki></code>, only the summary paragraph is pulled in. This keeps index pages automatically up to date with article content.
+
+After creating an article, add a transclusion line to the corresponding category index page (e.g., <code>Highlighted_work.mediawiki</code>) and add the article to the Pages section of the [[Main Page]].
+
+== Reference and citation format ==
+
+References use Wikipedia-style Citation Style 1 (CS1) plain-text formatting inside <code><nowiki><ref></nowiki></code> tags. Use periods to separate fields. Titles of articles and pages go in double quotes, linked to the URL. Titles of journals, websites, and conference proceedings go in italics.
+
+=== Examples ===
+
+'''Web page:'''
+
+<pre>
+<ref>Last, First (YYYY-MM-DD). [https://example.com "Title"]. ''Website''.</ref>
+</pre>
+
+'''arXiv paper:'''
+
+<pre>
+<ref>Last1, First1; Last2, First2 (YYYY). [https://arxiv.org/abs/ID "Title"]. arXiv:[https://arxiv.org/abs/ID ID].</ref>
+</pre>
+
+'''Journal article:'''
+
+<pre>
+<ref>Last1, First1; Last2, First2 (YYYY). [https://doi.org/DOI "Title"]. ''Journal''. '''Vol'''(Issue): Pages. doi:[https://doi.org/DOI DOI].</ref>
+</pre>
+
+'''Conference paper:'''
+
+<pre>
+<ref>Last1, First1; Last2, First2 (YYYY). [https://url "Title"]. ''Conference Name''. pp. Pages.</ref>
+</pre>
+
+'''Wiki/forum page:'''
+
+<pre>
+<ref>[https://example.com "Title"]. ''Site Name''.</ref>
+</pre>
+
+=== Rules ===
+
+* Author names use <code>Last, First</code> format. Multiple authors are separated by semicolons.
+* For 4 or more authors, list the first three and use <code>et al.</code>.
+* Dates: <code>YYYY-MM-DD</code> for web pages with specific dates, <code>YYYY</code> for papers and journals.
+* Volume numbers in bold: <code><nowiki>'''42'''</nowiki></code>.
+* Use named refs when citing the same source multiple times: <code><nowiki><ref name="name">...</ref></nowiki></code> and <code><nowiki><ref name="name" /></nowiki></code>.
+* When quoting text word-for-word from a source, wrap it in quotation marks with the source citation immediately after.
+
+== Formatting conventions ==
+
+* '''Bold''' (<code><nowiki>'''...'''</nowiki></code>) is used to introduce key terms and abbreviations on first mention.
+* Level 2 headings (<code><nowiki>== ... ==</nowiki></code>) only — level 1 is reserved for the page title.
+* Blank lines separate sections and structural elements; do not use multiple consecutive blank lines.
+* When linking to a category from content without adding the page to that category, use the colon prefix: <code><nowiki>[[:Category:Name|Display Text]]</nowiki></code>.
+
+== Created by ==
+
+* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], [https://patreon.com/BurnyTech Patreon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).
