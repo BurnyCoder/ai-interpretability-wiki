@@ -47,13 +47,36 @@
 | [[:Category:Events|Events]] || Conferences, workshops, and meetups
 |}
 
-== References ==
+== All pages ==
 
-<references />
+=== [[:Category:Highlighted work|Highlighted work]] ===
+
+* [[Progress measures for grokking via mechanistic interpretability]]
+* [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+
+=== [[:Category:Concepts|Concepts]] ===
+
+* [[Feature]]
+
+=== [[:Category:Architectures for interpretability|Architectures for interpretability]] ===
+
+* [[Sparse autoencoder]]
+
+=== [[:Category:Phenomena|Phenomena]] ===
+
+* [[Grokking]]
+
+=== [[:Category:People and groups|People and groups]] ===
+
+* [[Neel Nanda]]
 
 == Random page ==
 
 [[Special:Random|Click here to go to a random page on the wiki!]]
+
+== References ==
+
+<references />
 
 == Created by == 
 

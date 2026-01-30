@@ -30,6 +30,29 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Resources for learning | Tutorials, courses, and learning materials |
 | Events | Conferences, workshops, and meetups |
 
+## All pages
+
+### Highlighted work
+
+* Progress measures for grokking via mechanistic interpretability
+* Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+
+### Concepts
+
+* Feature
+
+### Architectures for interpretability
+
+* Sparse autoencoder
+
+### Phenomena
+
+* Grokking
+
+### People and groups
+
+* Neel Nanda
+
 ## Random page
 
 [Click here to go to a random page on the wiki!](https://aiinterpretability.miraheze.org/wiki/Special:Random)
