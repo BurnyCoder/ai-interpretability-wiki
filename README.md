@@ -56,6 +56,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Polysemanticity
 * Monosemanticity
 * Superposition
+* Attribution graph
 
 ### Methods
 

@@ -439,6 +439,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Polysemanticity]]
 * [[Monosemanticity]]
 * [[Superposition]]
+* [[Attribution graph]]
 
 === [[:Category:Methods|Methods]] ===
 

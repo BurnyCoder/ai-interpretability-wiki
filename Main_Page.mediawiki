@@ -71,6 +71,7 @@
 * [[Polysemanticity]]
 * [[Monosemanticity]]
 * [[Superposition]]
+* [[Attribution graph]]
 
 === [[:Category:Methods|Methods]] ===
 
