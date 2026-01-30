@@ -213,6 +213,8 @@ Every article page follows this layout:
 Summary paragraph with inline <ref> citations.
 </onlyinclude>
 
+Author/publication metadata (e.g., "It is a 2023 paper by ...").
+
 == References ==
 
 <references />
@@ -220,8 +222,8 @@ Summary paragraph with inline <ref> citations.
 [[Category:Category Name]]
 ```
 
-- **`<onlyinclude>`** wraps only the summary so index pages can transclude a short description.
-- **References section** comes after the `</onlyinclude>` tag, using `<references />`.
+- **`<onlyinclude>`** wraps only the summary so index pages can transclude a short description. Author and publication metadata goes **after** the closing `</onlyinclude>` tag so it does not appear in transclusions.
+- **References section** comes after the metadata, using `<references />`.
 - **Category assignment** is always the last line of the file.
 
 ### Transclusion for Index Pages
