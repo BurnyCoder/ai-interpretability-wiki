@@ -248,7 +248,7 @@ Text.<ref>[https://example.com Title — Source] (paper)</ref>
 Text.<ref>[https://example.com Title — Source] (blog post)</ref>
 ```
 
-Labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source.
+Use labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source if there are multiple of them.
 
 ### Category Taxonomy
 
