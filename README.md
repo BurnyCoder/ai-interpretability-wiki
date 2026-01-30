@@ -14,6 +14,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 |----------|-------------|
 | Highlighted work | Notable and influential work in AI interpretability |
 | Concepts | Core ideas and terminology |
+| Features and circuits | Features and circuits identified and analyzed in neural networks |
 | Methods | Techniques and approaches used to interpret models |
 | Architectures for interpretability | Architectures used to interpret models |
 | Applications | Practical uses and deployments |
@@ -50,6 +51,14 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Attribution graph
 * Pragmatic interpretability
 * Explainable AI
+
+### Features and circuits
+
+* Feature
+* Circuit
+* Attribution graph
+* Curve detector
+* Dog detector
 
 ### Methods
 

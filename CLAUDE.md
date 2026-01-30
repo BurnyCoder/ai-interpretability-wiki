@@ -340,7 +340,7 @@ References use Wikipedia-style Citation Style 1 (CS1) plain-text formatting insi
 
 ### Category Taxonomy
 
-The Main Page defines 18 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
+The Main Page defines 19 top-level categories displayed in a full-width wikitable. When linking to a category from content (without adding the page to that category), use the colon prefix:
 
 ```
 [[:Category:Name|Display Text]]
@@ -386,6 +386,8 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 | [[:Category:Highlighted work|Highlighted work]] || Notable and influential work in AI interpretability
 |-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
+|-
+| [[:Category:Features and circuits|Features and circuits]] || Features and circuits identified and analyzed in neural networks
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
@@ -439,6 +441,14 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Attribution graph]]
 * [[Pragmatic interpretability]]
 * [[Explainable AI]]
+
+=== [[:Category:Features and circuits|Features and circuits]] ===
+
+* [[Feature]]
+* [[Circuit]]
+* [[Attribution graph]]
+* [[Curve detector]]
+* [[Dog detector]]
 
 === [[:Category:Methods|Methods]] ===
 

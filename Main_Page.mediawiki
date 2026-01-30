@@ -20,6 +20,8 @@
 |-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
+| [[:Category:Features and circuits|Features and circuits]] || Features and circuits identified and analyzed in neural networks
+|-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
 | [[:Category:Architectures for interpretability|Architectures for interpretability]] || Architectures used to interpret models
@@ -72,6 +74,14 @@
 * [[Attribution graph]]
 * [[Pragmatic interpretability]]
 * [[Explainable AI]]
+
+=== [[:Category:Features and circuits|Features and circuits]] ===
+
+* [[Feature]]
+* [[Circuit]]
+* [[Attribution graph]]
+* [[Curve detector]]
+* [[Dog detector]]
 
 === [[:Category:Methods|Methods]] ===
 
