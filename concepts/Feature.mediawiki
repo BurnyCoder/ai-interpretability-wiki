@@ -11,6 +11,7 @@
 
 == Examples ==
 
+* Curve detector or car detector neurons found in InceptionV1<ref name="olah-2022" />
 * This part of the image contains a curve
 * This is a feature in a convnet, where there's a neuron activation per image patch - thus "part of image"
 * This part of the image contains a dog fur-like texture
