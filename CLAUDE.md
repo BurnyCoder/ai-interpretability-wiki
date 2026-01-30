@@ -471,6 +471,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[A Mathematical Framework for Transformer Circuits]]
 * [[The Principles of Deep Learning Theory]]
 * [[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges]]
+* [[Singular learning theory]]
 
 === [[:Category:Surveys|Surveys]] ===
 
