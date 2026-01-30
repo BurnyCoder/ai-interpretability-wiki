@@ -4,7 +4,9 @@ Behaviors and properties analyzed in AI interpretability research.
 * {{:Grokking}}
 * {{:Jailbreak}}
 * {{:Addition}}
-
+* {{:Curve detector}}
+* {{:Dog detector}}
+* {{:Golden Gate Bridge Claude}}
 
 == References ==
 

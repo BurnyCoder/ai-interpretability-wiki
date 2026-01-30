@@ -71,6 +71,9 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Grokking
 * Jailbreak
 * Addition
+* Curve detector
+* Dog detector
+* Golden Gate Bridge Claude
 
 ### Theory
 

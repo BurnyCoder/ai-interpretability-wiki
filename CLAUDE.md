@@ -454,6 +454,9 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Grokking]]
 * [[Jailbreak]]
 * [[Addition]]
+* [[Curve detector]]
+* [[Dog detector]]
+* [[Golden Gate Bridge Claude]]
 
 === [[:Category:Theory|Theory]] ===
 

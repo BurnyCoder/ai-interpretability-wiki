@@ -87,6 +87,9 @@
 * [[Grokking]]
 * [[Jailbreak]]
 * [[Addition]]
+* [[Curve detector]]
+* [[Dog detector]]
+* [[Golden Gate Bridge Claude]]
 
 === [[:Category:Theory|Theory]] ===
 
