@@ -113,6 +113,11 @@
 === [[:Category:People and groups|People and groups]] ===
 
 * [[Neel Nanda]]
+* [[Anthropic]]
+* [[OpenAI]]
+* [[DeepMind]]
+* [[GoodFire]]
+* [[EleutherAI]]
 
 === [[:Category:Communities|Communities]] ===
 

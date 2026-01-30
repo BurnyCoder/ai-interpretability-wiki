@@ -98,6 +98,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 ### People and groups
 
 * Neel Nanda
+* Anthropic
+* OpenAI
+* DeepMind
+* GoodFire
+* EleutherAI
 
 ### Communities
 

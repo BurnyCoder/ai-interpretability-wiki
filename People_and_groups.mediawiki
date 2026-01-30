@@ -1,6 +1,11 @@
 Researchers, labs, and organizations in AI interpretability.
 
 * {{:Neel Nanda}}
+* {{:Anthropic}}
+* {{:OpenAI}}
+* {{:DeepMind}}
+* {{:GoodFire}}
+* {{:EleutherAI}}
 
 == References ==
 

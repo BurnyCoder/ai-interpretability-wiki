@@ -481,6 +481,11 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 === [[:Category:People and groups|People and groups]] ===
 
 * [[Neel Nanda]]
+* [[Anthropic]]
+* [[OpenAI]]
+* [[DeepMind]]
+* [[GoodFire]]
+* [[EleutherAI]]
 
 === [[:Category:Communities|Communities]] ===
 
