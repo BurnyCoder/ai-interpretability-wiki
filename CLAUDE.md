@@ -321,7 +321,7 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 == Welcome to {{SITENAME}} wiki! ==
 
-'''Interpretability''' is the ability for the decision processes and inner workings of [https://en.wikipedia.org/wiki/Artificial_intelligence artificial intelligence] and [https://en.wikipedia.org/wiki/Machine_learning machine learning] systems to be understood by humans or other outside observers.<ref>[https://www.lesswrong.com/w/interpretability-ml-and-ai "Interpretability (ML & AI)"]. ''LessWrong''.</ref>
+'''Interpretability''' is the ability for the decision processes and inner workings of artificial intelligence and machine learning systems to be understood by humans or other outside observers.<ref>[https://www.lesswrong.com/w/interpretability-ml-and-ai "Interpretability (ML & AI)"]. ''LessWrong''.</ref>
 
 '''Mechanistic interpretability''' (often abbreviated as '''mech interp''', '''mechinterp''', or '''MI''') is a subfield of research within AI interpretability and explainable artificial intelligence that aims to understand the internal workings of neural networks by analyzing the mechanisms present in their computations. The approach seeks to analyze neural networks in a manner similar to how binary computer programs can be reverse-engineered to understand their functions.<ref>[https://en.wikipedia.org/wiki/Mechanistic_interpretability "Mechanistic interpretability"]. ''Wikipedia''.</ref>
 
