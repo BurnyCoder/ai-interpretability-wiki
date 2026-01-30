@@ -241,14 +241,18 @@ Because articles use `<onlyinclude>`, only the summary paragraph is pulled in. T
 
 ### Reference / Citation Format
 
-Inline references use an external URL followed by a parenthesized label:
+Inline references use an external URL:
+
+```
+Text.<ref>[https://example.com Title — Source]</ref>
+```
+
+Use labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source if there are multiple of them of the same or similar name and you can't easily tell.
 
 ```
 Text.<ref>[https://example.com Title — Source] (paper)</ref>
 Text.<ref>[https://example.com Title — Source] (blog post)</ref>
 ```
-
-Use labels like `(paper)`, `(blog post)`, or `(code)` clarify the type of source if there are multiple of them.
 
 ### Category Taxonomy
 
