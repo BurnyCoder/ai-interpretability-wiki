@@ -84,6 +84,8 @@
 
 * [[Alignment]]
 * [[Grokking]]
+* [[Jailbreak]]
+* [[Addition]]
 
 === [[:Category:Theory|Theory]] ===
 

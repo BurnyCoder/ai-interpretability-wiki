@@ -68,6 +68,8 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Alignment
 * Grokking
+* Jailbreak
+* Addition
 
 ### Theory
 
