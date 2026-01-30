@@ -228,7 +228,9 @@ Author/publication metadata (e.g., "It is a 2023 paper by ...").
 
 <references />
 
-Created by Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X]).
+== Created by ==
+
+* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X]).
 
 [[Category:Category Name]]
 ```
