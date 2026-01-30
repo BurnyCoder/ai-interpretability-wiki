@@ -1,9 +1,0 @@
-<onlyinclude>In [[mechanistic interpretability]], a '''[[Feature|feature]]''' is "the fundamental unit of neural network representations,"<ref name="bereska">Bereska, Leonard; Gavves, Efstratios (2024). [https://arxiv.org/abs/2404.14082 "Mechanistic Interpretability for AI Safety: A Review"]. arXiv:[https://arxiv.org/abs/2404.14082 2404.14082].</ref> defined as "the smallest units of how neural networks encode knowledge, such that features cannot be further decomposed into smaller, distinct concepts," which "hypothetically serve as core components of a neural network's representation, analogous to how cells form the fundamental unit of biological organisms."<ref name="bereska" /> An alternative definition frames features as "elements that a network would ideally assign to individual neurons if neuron count were not a limiting factor," that is, "the disentangled concepts that a larger, sparser network with sufficient capacity would learn to represent with individual neurons."<ref name="bereska" /><ref>Bricken, Trenton; Templeton, Adly; Batson, Joshua; et al. (2023). [https://transformer-circuits.pub/2023/monosemantic-features "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning"]. ''Transformer Circuits Thread''.</ref></onlyinclude>
-
-The definitions are from a 2024 review paper by Leonard Bereska and Efstratios Gavves at the University of Amsterdam, submitted to ''Transactions on Machine Learning Research''.<ref name="bereska" />
-
-== References ==
-
-<references />
-
-[[Category:Concepts]]
