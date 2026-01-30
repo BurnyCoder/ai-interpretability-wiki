@@ -2,6 +2,8 @@ Core ideas and terminology in AI interpretability.
 
 * {{:Feature}}
 * {{:Circuit}}
+* {{:Pragmatic interpretability}}
+* {{:Explainable AI}}
 
 == References ==
 

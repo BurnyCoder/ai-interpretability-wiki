@@ -66,6 +66,8 @@
 
 * [[Feature]]
 * [[Circuit]]
+* [[Pragmatic interpretability]]
+* [[Explainable AI]]
 
 === [[:Category:Methods|Methods]] ===
 

@@ -51,6 +51,8 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Feature
 * Circuit
+* Pragmatic interpretability
+* Explainable AI
 
 ### Methods
 
