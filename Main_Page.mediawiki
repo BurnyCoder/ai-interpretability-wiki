@@ -48,3 +48,5 @@
 == References ==
 
 <references />
+
+Created by [https://burnyverse.com/ Burny] ([https://x.com/burny_tech @burny_tech]).

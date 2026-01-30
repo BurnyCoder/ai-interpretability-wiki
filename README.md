@@ -29,3 +29,5 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 | Youtube channels | Video content and educational channels |
 | Resources for learning | Tutorials, courses, and learning materials |
 | Events | Conferences, workshops, and meetups |
+
+Created by [Burny](https://burnyverse.com/) ([@burny_tech](https://x.com/burny_tech)).
