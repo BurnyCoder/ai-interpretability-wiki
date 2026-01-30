@@ -2,7 +2,7 @@ Architectures used to interpret models
 
 * {{:Sparse autoencoder}}
 * {{:Linear probe}}
-* {{:Crosslayer transcoder}}
+* {{:Cross-layer transcoder}}
 
 == References ==
 

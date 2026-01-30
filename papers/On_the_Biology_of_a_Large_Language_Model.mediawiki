@@ -1,0 +1,10 @@
+<onlyinclude>'''[[On the Biology of a Large Language Model]]''' investigates "the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts," using [[Attribution graph|attribution graphs]] to "partially trace the chain of intermediate steps that a model uses to transform a specific input prompt into an output response. The paper covers case studies including multi-step reasoning, planning in poems, multilingual circuits, addition, medical diagnoses, entity recognition and hallucinations, refusals, jailbreaks, chain-of-thought faithfulness, and uncovering hidden goals in a misaligned model."<ref name="biology">Lindsey, Jack; Gurnee, Wes; Ameisen, Emmanuel; et al. (2025). [https://transformer-circuits.pub/2025/attribution-graphs/biology.html "On the Biology of a Large Language Model"]. ''Transformer Circuits Thread''.</ref></onlyinclude>
+
+<ref name="biology" />
+
+== References ==
+
+<references />
+
+[[Category:Highlighted work]]
+[[Category:Papers]]

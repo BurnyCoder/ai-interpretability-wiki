@@ -59,6 +59,7 @@
 
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+* [[On the Biology of a Large Language Model]]
 
 === [[:Category:Concepts|Concepts]] ===
 
@@ -72,7 +73,7 @@
 
 * [[Sparse autoencoder]]
 * [[Linear probe]]
-* [[Crosslayer transcoder]]
+* [[Cross-layer transcoder]]
 
 === [[:Category:AI architectures|AI architectures]] ===
 
@@ -122,6 +123,7 @@
 
 * [[Progress measures for grokking via mechanistic interpretability]]
 * [[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning]]
+* [[On the Biology of a Large Language Model]]
 
 == Random page ==
 

@@ -37,11 +37,13 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Progress measures for grokking via mechanistic interpretability
 * Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+* On the Biology of a Large Language Model
 
 ### Papers
 
 * Progress measures for grokking via mechanistic interpretability
 * Towards Monosemanticity: Decomposing Language Models With Dictionary Learning
+* On the Biology of a Large Language Model
 
 ### Concepts
 
@@ -55,7 +57,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Sparse autoencoder
 * Linear probe
-* Crosslayer transcoder
+* Cross-layer transcoder
 
 ### AI architectures
 

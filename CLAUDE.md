@@ -194,12 +194,13 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── methods/
 │   └── Dictionary_learning.mediawiki
 ├── architectures-for-interpretability/
-│   ├── Crosslayer_transcoder.mediawiki
+│   ├── Cross-layer_transcoder.mediawiki
 │   ├── Linear_probe.mediawiki
 │   └── Sparse_autoencoder.mediawiki
 ├── concepts/
 │   └── Feature.mediawiki
 ├── papers/
+│   ├── On_the_Biology_of_a_Large_Language_Model.mediawiki
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
 │   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ├── communities/
@@ -435,7 +436,7 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 
 * [[Sparse autoencoder]]
 * [[Linear probe]]
-* [[Crosslayer transcoder]]
+* [[Cross-layer transcoder]]
 
 === [[:Category:AI architectures|AI architectures]] ===
 
