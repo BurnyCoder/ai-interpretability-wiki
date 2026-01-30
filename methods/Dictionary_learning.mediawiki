@@ -2,6 +2,8 @@
 '''[[Dictionary learning]]''' is one of the names for "the problem of finding a sparse representation of dense data" where "the matrix projecting sparse vectors into the lower dimensional space is also unknown."<ref name="toy-models">Elhage, Nelson; Hume, Tristan; Olsson, Catherine; et al. (2022). [https://transformer-circuits.pub/2022/toy_model/index.html "Toy Models of Superposition"]. ''Transformer Circuits Thread''.</ref> "This topic goes by many different names including sparse coding (most common in neuroscience), dictionary learning (in computer science), and sparse frame design (in mathematics)."<ref name="toy-models" /> In the context of mechanistic interpretability, dictionary learning is used to "take the activations of neural network layers and find out which directions correspond to [[Feature|features]]."<ref name="toy-models" />
 </onlyinclude>
 
+A [[Sparse autoencoder|sparse autoencoder]] is "a weak dictionary learning algorithm" used "to generate learned features from a trained model that offer a more monosemantic unit of analysis than the model's neurons themselves."<ref name="towards-monosemanticity">Bricken, Trenton; Templeton, Adly; Batson, Joshua; et al. (2023). [https://transformer-circuits.pub/2023/monosemantic-features/index.html "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning"]. ''Transformer Circuits Thread''.</ref>
+
 == References ==
 
 <references />
