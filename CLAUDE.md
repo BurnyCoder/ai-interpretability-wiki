@@ -265,6 +265,8 @@ The Main Page defines 17 top-level categories displayed in a full-width wikitabl
 
 - When updating @Main_Page.mediawiki, also update README.md and CLAUDE.md with same edits
 
+- When adding anything from some source, make sure to as exactly quote words from the source as possible to not make stuff up, and add the source as a reference
+
 ## Contents of @Main_Page.mediawiki
 
 == Welcome to {{SITENAME}} wiki! ==
