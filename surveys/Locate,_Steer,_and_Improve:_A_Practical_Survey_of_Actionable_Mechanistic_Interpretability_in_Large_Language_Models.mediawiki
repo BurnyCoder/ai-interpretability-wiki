@@ -1,0 +1,9 @@
+<onlyinclude>
+'''[[Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models]]''' is "a practical survey structured around the pipeline: 'Locate, Steer, and Improve'" that "formally categorize[s] Localizing (diagnosis) and Steering (intervention) methods based on specific Interpretable Objects to establish a rigorous intervention protocol" and "demonstrate[s] how this framework enables tangible improvements in Alignment, Capability, and Efficiency, effectively operationalizing MI as an actionable methodology for model optimization."<ref>Zhang, Hengyuan; Zhang, Zhihao; Wang, Mingyang; et al. (2026). [https://arxiv.org/abs/2601.14004 "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models"]. arXiv:[https://arxiv.org/abs/2601.14004 2601.14004].</ref>
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Surveys]]

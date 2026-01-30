@@ -1,0 +1,9 @@
+<onlyinclude>
+'''[[Mechanistic Interpretability for AI Safety -- A Review]]''' is a review that "explores mechanistic interpretability: reverse engineering the computational mechanisms and representations learned by neural networks into human-understandable algorithms and concepts to provide a granular, causal understanding" and "assess[es] the relevance of mechanistic interpretability to AI safety."<ref>Bereska, Leonard; Gavves, Efstratios (2024). [https://arxiv.org/abs/2404.14082 "Mechanistic Interpretability for AI Safety -- A Review"]. arXiv:[https://arxiv.org/abs/2404.14082 2404.14082].</ref>
+</onlyinclude>
+
+== References ==
+
+<references />
+
+[[Category:Surveys]]

@@ -57,6 +57,11 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 * Grokking
 
+### Surveys
+
+* Mechanistic Interpretability for AI Safety -- A Review
+* Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
+
 ### People and groups
 
 * Neel Nanda
