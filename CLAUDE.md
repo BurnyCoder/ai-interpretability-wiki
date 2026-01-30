@@ -180,6 +180,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Highlighted_work.mediawiki
 ├── Architectures_for_interpretability.mediawiki
 ├── Concepts.mediawiki
+├── People_and_groups.mediawiki
 ├── Phenomena.mediawiki
 ├── architectures-for-interpretability/
 │   └── Sparse_autoencoder.mediawiki
@@ -188,6 +189,8 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── highlighted-work/
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
 │   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+├── people-and-groups/
+│   └── Neel_Nanda.mediawiki
 └── phenomena/
     └── Grokking.mediawiki
 ```

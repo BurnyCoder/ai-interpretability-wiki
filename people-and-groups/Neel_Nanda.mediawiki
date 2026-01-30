@@ -1,0 +1,11 @@
+<onlyinclude>'''[[Neel Nanda]]''' runs the Google DeepMind mechanistic interpretability team, whose job is to "take a trained neural network and try to reverse engineer the algorithms and structures it has learned".<ref name="about">Nanda, Neel. [https://www.neelnanda.io/about "About Me"]. ''neelnanda.io''.</ref> He sees the main goal of his work as reducing existential risk from AI.<ref name="about" /> Prior to this, he did independent mechanistic interpretability research and worked at Anthropic as a language model interpretability researcher under Chris Olah.<ref name="about" /></onlyinclude>
+
+He did a pure maths undergrad at Cambridge (graduated in 2020) and interned in quant finance roles at Jane Street and Jump Trading, before taking the year after graduating to explore AI safety, interning at the Future of Humanity Institute, DeepMind and the Centre for Human-Compatible AI.<ref name="about" />
+
+He is the creator of the TransformerLens library for mechanistic interpretability of language models, a Comprehensive Mechanistic Interpretability Explainer, and a Youtube channel about mechanistic interpretability with paper walkthroughs and live walkthroughs of research.<ref name="about" />
+
+== References ==
+
+<references />
+
+[[Category:People and groups]]
