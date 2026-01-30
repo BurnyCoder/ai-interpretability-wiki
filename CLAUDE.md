@@ -179,11 +179,14 @@ This section documents the patterns currently in use across the wiki. Follow the
 ├── Main_Page.mediawiki
 ├── Highlighted_work.mediawiki
 ├── Architectures_for_interpretability.mediawiki
+├── Phenomena.mediawiki
 ├── architectures-for-interpretability/
 │   └── Sparse_autoencoder.mediawiki
-└── highlighted-work/
-    ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
-    └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+├── highlighted-work/
+│   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
+│   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
+└── phenomena/
+    └── Grokking.mediawiki
 ```
 
 ### Page Hierarchy

@@ -1,0 +1,9 @@
+<onlyinclude>'''[[Grokking]]''', or '''delayed generalization''', is a phenomenon in machine learning where a model abruptly transitions from overfitting (performing well only on training data) to generalizing (performing well on both training and test data), after many training iterations with little or no improvement on the held-out data.<ref>[https://arxiv.org/abs/2201.02177 Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets — arXiv] (paper)</ref><ref>[https://en.wikipedia.org/wiki/Grokking_(machine_learning) Grokking (machine learning) — Wikipedia]</ref> This contrasts with what is typically observed in machine learning, where generalization occurs gradually alongside improved performance on training data.</onlyinclude>
+
+It was first described in a 2022 paper by Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, and Vedant Misra.
+
+== References ==
+
+<references />
+
+[[Category:Phenomena]]
