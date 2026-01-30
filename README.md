@@ -53,6 +53,9 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 * Circuit
 * Pragmatic interpretability
 * Explainable AI
+* Polysemanticity
+* Monosemanticity
+* Superposition
 
 ### Methods
 

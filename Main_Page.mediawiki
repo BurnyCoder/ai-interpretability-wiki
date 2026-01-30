@@ -68,6 +68,9 @@
 * [[Circuit]]
 * [[Pragmatic interpretability]]
 * [[Explainable AI]]
+* [[Polysemanticity]]
+* [[Monosemanticity]]
+* [[Superposition]]
 
 === [[:Category:Methods|Methods]] ===
 

@@ -436,6 +436,9 @@ The Main Page defines 18 top-level categories displayed in a full-width wikitabl
 * [[Circuit]]
 * [[Pragmatic interpretability]]
 * [[Explainable AI]]
+* [[Polysemanticity]]
+* [[Monosemanticity]]
+* [[Superposition]]
 
 === [[:Category:Methods|Methods]] ===
 
