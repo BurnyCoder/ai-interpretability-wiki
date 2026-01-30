@@ -32,4 +32,4 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 ## Created by
 
-* Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech)).
+* Burny ([website](https://burnyverse.com/), [X](https://x.com/burny_tech), [GitHub](https://github.com/BurnyCoder), [LinkedIn](https://www.linkedin.com/in/libor-burian-1113b0207/), [Facebook](https://www.facebook.com/burian.libor/), [Telegram](https://t.me/burnytech), [BlueSky](https://burnytech.bsky.social), [Mastodon](https://mathstodon.xyz/@Burny), [Patreon](https://patreon.com/BurnyTech), Discord: burnytech, [burian.lib@gmail.com](mailto:burian.lib@gmail.com)).
