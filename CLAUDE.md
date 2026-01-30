@@ -191,7 +191,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   ├── Progress_measures_for_grokking_via_mechanistic_interpretability.mediawiki
 │   └── Towards_Monosemanticity:_Decomposing_Language_Models_With_Dictionary_Learning.mediawiki
 ├── communities/
-│   └── Mech_Interp_Discord.mediawiki
+│   └── Mech_Interp_discord.mediawiki
 ├── people-and-groups/
 │   └── Neel_Nanda.mediawiki
 └── phenomena/
@@ -380,7 +380,7 @@ A local mirror of the [AI Interpretability Wiki](https://aiinterpretability.mira
 
 ### Communities
 
-* Mech Interp Discord
+* Mech Interp discord
 
 ## Tips
 

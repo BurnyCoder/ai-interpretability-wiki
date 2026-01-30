@@ -1,5 +1,0 @@
-<onlyinclude>'''[[Mech Interp Discord]]''' is a Discord community for mechanistic interpretability where members share and discuss mechinterp and related research, attend a weekly paper reading group, work on community projects, attend hackathons, and more.</onlyinclude>
-
-[https://discord.com/invite/TnTGx7cQwh Click here to join.]
-
-[[Category:Communities]]
