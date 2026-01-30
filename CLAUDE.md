@@ -387,7 +387,7 @@ The Main Page defines 19 top-level categories displayed in a full-width wikitabl
 |-
 | [[:Category:Concepts|Concepts]] || Core ideas and terminology
 |-
-| [[:Category:Features and circuits|Features and circuits]] || Features and circuits identified and analyzed in neural networks
+| [[:Category:Features and circuits|Features and circuits]] || [[Feature|Features]] and [[Circuit|circuits]] identified and analyzed in neural networks
 |-
 | [[:Category:Methods|Methods]] || Techniques and approaches used to interpret models
 |-
