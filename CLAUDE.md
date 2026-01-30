@@ -198,6 +198,7 @@ This section documents the patterns currently in use across the wiki. Follow the
 │   ├── Linear_probe.mediawiki
 │   └── Sparse_autoencoder.mediawiki
 ├── concepts/
+│   ├── Circuit.mediawiki
 │   └── Feature.mediawiki
 ├── papers/
 │   ├── On_the_Biology_of_a_Large_Language_Model.mediawiki
