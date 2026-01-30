@@ -264,7 +264,13 @@ More text.
 Category index pages list articles using full-page transclusion:
 
 ```
+Description of the category.
+
 * {{:Article Title}}
+
+== References ==
+
+<references />
 ```
 
 Because articles use `<onlyinclude>`, only the summary paragraph is pulled in. This keeps index pages automatically up to date with article content.
