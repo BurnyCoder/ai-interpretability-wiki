@@ -1,3 +1,7 @@
 Architectures of studied models.
 
 * {{:Transformer}}
+
+== References ==
+
+<references />

@@ -1,3 +1,7 @@
 Architectures used to interpret models
 
 * {{:Sparse autoencoder}}
+
+== References ==
+
+<references />

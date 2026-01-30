@@ -1,3 +1,7 @@
 Communities on Discord, Slack, etc.
 
 * {{:Mech Interp discord}}
+
+== References ==
+
+<references />
