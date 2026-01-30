@@ -13,8 +13,6 @@ Every article page follows this layout:
 '''[[Article Title]]''' summary paragraph with inline <ref> citations.
 </onlyinclude>
 
-Author/publication metadata (e.g., "It is a 2023 paper by ...").
-
 == References ==
 
 <references />
@@ -96,7 +94,3 @@ References use Wikipedia-style Citation Style 1 (CS1) plain-text formatting insi
 * Level 2 headings (<code><nowiki>== ... ==</nowiki></code>) only — level 1 is reserved for the page title.
 * Blank lines separate sections and structural elements; do not use multiple consecutive blank lines.
 * When linking to a category from content without adding the page to that category, use the colon prefix: <code><nowiki>[[:Category:Name|Display Text]]</nowiki></code>.
-
-== Created by ==
-
-* Burny ([https://burnyverse.com/ website], [https://x.com/burny_tech X], [https://github.com/BurnyCoder GitHub], [https://www.linkedin.com/in/libor-burian-1113b0207/ LinkedIn], [https://www.facebook.com/burian.libor/ Facebook], [https://t.me/burnytech Telegram], [https://burnytech.bsky.social BlueSky], [https://mathstodon.xyz/@Burny Mastodon], [https://patreon.com/BurnyTech Patreon], Discord: burnytech, [mailto:burian.lib@gmail.com burian.lib@gmail.com]).

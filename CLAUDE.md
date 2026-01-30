@@ -222,8 +222,7 @@ Every article page follows this layout:
 <onlyinclude>
 Summary paragraph with inline <ref> citations.
 </onlyinclude>
-
-Author/publication metadata (e.g., "It is a 2023 paper by ...").
+More text.
 
 == References ==
 
