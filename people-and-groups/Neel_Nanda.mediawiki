@@ -6,7 +6,7 @@ He is the creator of the TransformerLens library for mechanistic interpretabilit
 
 == Papers ==
 
-* [[Progress measures for grokking via mechanistic interpretability]]
+* {{:Progress measures for grokking via mechanistic interpretability}}
 
 == References ==
 
